@@ -1,0 +1,64 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+GRAPH_PTR	nautywrap.c	/^static NyGraph *GRAPH_PTR;$/;"	v	file:
+Graph	graph.py	/^class Graph(object):$/;"	c
+NUM_GENS_INCR	nautywrap.h	19;"	d
+NyGraph	nautywrap.h	/^} NyGraph;$/;"	t	typeref:struct:__anon1
+PyInit_nautywrap	nautywrap.c	/^PyInit_nautywrap(void) {$/;"	f
+WORKSPACE_FACTOR	nautywrap.h	18;"	d
+__all__	graph.py	/^__all__ = [$/;"	v
+__init__	graph.py	/^    def __init__(self, number_of_vertices, directed=False,$/;"	m	class:Graph
+__repr__	graph.py	/^    def __repr__(self):$/;"	m	class:Graph	file:
+__version__	__init__.py	/^__version__ = '0.6'$/;"	v
+_check_vertices	graph.py	/^    def _check_vertices(self, vs):$/;"	m	class:Graph
+_get_adjacency_dict	graph.py	/^    def _get_adjacency_dict(self):$/;"	m	class:Graph
+_get_vertex_coloring	graph.py	/^    def _get_vertex_coloring(self):$/;"	m	class:Graph
+_make_nygraph	nautywrap.c	/^NyGraph * _make_nygraph(PyObject *py_graph)$/;"	f
+absolute_import	__init__.py	/^from __future__ import absolute_import$/;"	i
+absolute_import	graph.py	/^from __future__ import absolute_import$/;"	i
+adjacency_dict	graph.py	/^    adjacency_dict = property(_get_adjacency_dict)$/;"	v	class:Graph
+autgrp	graph.py	/^def autgrp(g):$/;"	f
+certificate	graph.py	/^def certificate(g):$/;"	f
+cmatrix	nautywrap.h	/^    setword     *cmatrix;$/;"	m	struct:__anon1
+connect_vertex	graph.py	/^    def connect_vertex(self, v, neighbors):$/;"	m	class:Graph
+create_nygraph	nautywrap.c	/^NyGraph * create_nygraph(int no_vertices)$/;"	f
+delete_nygraph	nautywrap.c	/^delete_nygraph(PyObject *self, PyObject *args) {$/;"	f	file:
+delete_nygraph_docs	nautywrap.c	/^static char delete_nygraph_docs[] =$/;"	v	file:
+delete_random_edge	graph.py	/^def delete_random_edge(g):$/;"	f
+destroy_nygraph	nautywrap.c	/^void destroy_nygraph(NyGraph *g)$/;"	f
+extend_canonical	nautywrap.c	/^NyGraph * extend_canonical(NyGraph *g)$/;"	f
+generator	nautywrap.h	/^    permutation **generator;$/;"	m	struct:__anon1
+graph_autgrp	nautywrap.c	/^graph_autgrp(PyObject *self, PyObject *args)$/;"	f	file:
+graph_autgrp_docs	nautywrap.c	/^static char graph_autgrp_docs[] =$/;"	v	file:
+graph_cert	nautywrap.c	/^graph_cert(PyObject *self, PyObject *args)$/;"	f	file:
+graph_cert_docs	nautywrap.c	/^static char graph_cert_docs[] =$/;"	v	file:
+isomorphic	graph.py	/^def isomorphic(a, b):$/;"	f
+lab	nautywrap.h	/^    int         *lab;$/;"	m	struct:__anon1
+make_edge	nautywrap.c	/^void make_edge(NyGraph *g, int i, int j)$/;"	f
+make_nygraph	nautywrap.c	/^make_nygraph(PyObject *self, PyObject *args)$/;"	f	file:
+make_nygraph_docs	nautywrap.c	/^static char make_nygraph_docs[] =$/;"	v	file:
+matrix	nautywrap.h	/^    setword     *matrix;$/;"	m	struct:__anon1
+max_no_generators	nautywrap.h	/^    int max_no_generators;$/;"	m	struct:__anon1
+moduledef	nautywrap.c	/^static struct PyModuleDef moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+nautywrap	graph.py	/^from . import nautywrap$/;"	i
+nautywrap_methods	nautywrap.c	/^static PyMethodDef nautywrap_methods[] = {$/;"	v	file:
+no_generators	nautywrap.h	/^    int no_generators;$/;"	m	struct:__anon1
+no_setwords	nautywrap.h	/^    int         no_setwords;$/;"	m	struct:__anon1
+no_vertices	nautywrap.h	/^    int         no_vertices;$/;"	m	struct:__anon1
+options	nautywrap.h	/^    optionblk *options;$/;"	m	struct:__anon1
+orbits	nautywrap.h	/^    int         *orbits;$/;"	m	struct:__anon1
+ptn	nautywrap.h	/^    int         *ptn;$/;"	m	struct:__anon1
+py_auto_group	nautywrap.c	/^static PyObject* py_auto_group(NyGraph *g)$/;"	f	file:
+random	graph.py	/^import random$/;"	i
+set_adjacency_dict	graph.py	/^    def set_adjacency_dict(self, adjacency_dict):$/;"	m	class:Graph
+set_partition	nautywrap.c	/^static int set_partition(PyObject *py_graph, int *lab, int *ptn)$/;"	f	file:
+set_vertex_coloring	graph.py	/^    def set_vertex_coloring(self, vertex_coloring):$/;"	m	class:Graph
+stats	nautywrap.h	/^    statsblk    *stats;$/;"	m	struct:__anon1
+store_generator	nautywrap.c	/^static void store_generator(int count,$/;"	f	file:
+vertex_coloring	graph.py	/^    vertex_coloring = property(_get_vertex_coloring)$/;"	v	class:Graph
+worksize	nautywrap.h	/^    int         worksize;$/;"	m	struct:__anon1
+workspace	nautywrap.h	/^    setword     *workspace;$/;"	m	struct:__anon1

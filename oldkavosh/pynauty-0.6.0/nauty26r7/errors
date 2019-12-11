@@ -1,0 +1,2764 @@
+gtnautyL.o: In function `setlabptn':
+gtnauty.c:(.text+0xa50): multiple definition of `setlabptn'
+gtnauty.o:gtnauty.c:(.text+0xa50): first defined here
+gtnautyL.o: In function `fcanonise':
+gtnauty.c:(.text+0x1250): multiple definition of `fcanonise'
+gtnauty.o:gtnauty.c:(.text+0x1250): first defined here
+gtnautyL.o: In function `fcanonise_inv':
+gtnauty.c:(.text+0x1890): multiple definition of `fcanonise_inv'
+gtnauty.o:gtnauty.c:(.text+0x1890): first defined here
+gtnautyL.o: In function `fcanonise_inv_sg':
+gtnauty.c:(.text+0x1f00): multiple definition of `fcanonise_inv_sg'
+gtnauty.o:gtnauty.c:(.text+0x1f00): first defined here
+gtnautyL.o: In function `fgroup':
+gtnauty.c:(.text+0x25c0): multiple definition of `fgroup'
+gtnauty.o:gtnauty.c:(.text+0x25c0): first defined here
+gtnautyL.o: In function `fgroup_inv':
+gtnauty.c:(.text+0x2ae0): multiple definition of `fgroup_inv'
+gtnauty.o:gtnauty.c:(.text+0x2ae0): first defined here
+gtnautyL.o: In function `istransitive':
+gtnauty.c:(.text+0x3040): multiple definition of `istransitive'
+gtnauty.o:gtnauty.c:(.text+0x3040): first defined here
+gtnautyL.o: In function `tg_canonise':
+gtnauty.c:(.text+0x3a10): multiple definition of `tg_canonise'
+gtnauty.o:gtnauty.c:(.text+0x3a10): first defined here
+gtnautyL1.o: In function `setlabptn':
+gtnauty.c:(.text+0xa50): multiple definition of `setlabptn'
+gtnauty.o:gtnauty.c:(.text+0xa50): first defined here
+gtnautyL1.o: In function `fcanonise':
+gtnauty.c:(.text+0x1150): multiple definition of `fcanonise'
+gtnauty.o:gtnauty.c:(.text+0x1250): first defined here
+gtnautyL1.o: In function `fcanonise_inv':
+gtnauty.c:(.text+0x1480): multiple definition of `fcanonise_inv'
+gtnauty.o:gtnauty.c:(.text+0x1890): first defined here
+gtnautyL1.o: In function `fcanonise_inv_sg':
+gtnauty.c:(.text+0x17c0): multiple definition of `fcanonise_inv_sg'
+gtnauty.o:gtnauty.c:(.text+0x1f00): first defined here
+gtnautyL1.o: In function `fgroup':
+gtnauty.c:(.text+0x1af0): multiple definition of `fgroup'
+gtnauty.o:gtnauty.c:(.text+0x25c0): first defined here
+gtnautyL1.o: In function `fgroup_inv':
+gtnauty.c:(.text+0x1e30): multiple definition of `fgroup_inv'
+gtnauty.o:gtnauty.c:(.text+0x2ae0): first defined here
+gtnautyL1.o: In function `istransitive':
+gtnauty.c:(.text+0x21a0): multiple definition of `istransitive'
+gtnauty.o:gtnauty.c:(.text+0x3040): first defined here
+gtnautyL1.o: In function `tg_canonise':
+gtnauty.c:(.text+0x2570): multiple definition of `tg_canonise'
+gtnauty.o:gtnauty.c:(.text+0x3a10): first defined here
+gtnautyW.o: In function `setlabptn':
+gtnauty.c:(.text+0xa50): multiple definition of `setlabptn'
+gtnauty.o:gtnauty.c:(.text+0xa50): first defined here
+gtnautyW.o: In function `fcanonise':
+gtnauty.c:(.text+0x1250): multiple definition of `fcanonise'
+gtnauty.o:gtnauty.c:(.text+0x1250): first defined here
+gtnautyW.o: In function `fcanonise_inv':
+gtnauty.c:(.text+0x1890): multiple definition of `fcanonise_inv'
+gtnauty.o:gtnauty.c:(.text+0x1890): first defined here
+gtnautyW.o: In function `fcanonise_inv_sg':
+gtnauty.c:(.text+0x1f00): multiple definition of `fcanonise_inv_sg'
+gtnauty.o:gtnauty.c:(.text+0x1f00): first defined here
+gtnautyW.o: In function `fgroup':
+gtnauty.c:(.text+0x25c0): multiple definition of `fgroup'
+gtnauty.o:gtnauty.c:(.text+0x25c0): first defined here
+gtnautyW.o: In function `fgroup_inv':
+gtnauty.c:(.text+0x2ae0): multiple definition of `fgroup_inv'
+gtnauty.o:gtnauty.c:(.text+0x2ae0): first defined here
+gtnautyW.o: In function `istransitive':
+gtnauty.c:(.text+0x3040): multiple definition of `istransitive'
+gtnauty.o:gtnauty.c:(.text+0x3040): first defined here
+gtnautyW.o: In function `tg_canonise':
+gtnauty.c:(.text+0x3b20): multiple definition of `tg_canonise'
+gtnauty.o:gtnauty.c:(.text+0x3a10): first defined here
+gtnautyW1.o: In function `setlabptn':
+gtnauty.c:(.text+0xa50): multiple definition of `setlabptn'
+gtnauty.o:gtnauty.c:(.text+0xa50): first defined here
+gtnautyW1.o: In function `fcanonise':
+gtnauty.c:(.text+0x10e0): multiple definition of `fcanonise'
+gtnauty.o:gtnauty.c:(.text+0x1250): first defined here
+gtnautyW1.o: In function `fcanonise_inv':
+gtnauty.c:(.text+0x1400): multiple definition of `fcanonise_inv'
+gtnauty.o:gtnauty.c:(.text+0x1890): first defined here
+gtnautyW1.o: In function `fcanonise_inv_sg':
+gtnauty.c:(.text+0x1740): multiple definition of `fcanonise_inv_sg'
+gtnauty.o:gtnauty.c:(.text+0x1f00): first defined here
+gtnautyW1.o: In function `fgroup':
+gtnauty.c:(.text+0x1a60): multiple definition of `fgroup'
+gtnauty.o:gtnauty.c:(.text+0x25c0): first defined here
+gtnautyW1.o: In function `fgroup_inv':
+gtnauty.c:(.text+0x1de0): multiple definition of `fgroup_inv'
+gtnauty.o:gtnauty.c:(.text+0x2ae0): first defined here
+gtnautyW1.o: In function `istransitive':
+gtnauty.c:(.text+0x2150): multiple definition of `istransitive'
+gtnauty.o:gtnauty.c:(.text+0x3040): first defined here
+gtnautyW1.o: In function `tg_canonise':
+gtnauty.c:(.text+0x2500): multiple definition of `tg_canonise'
+gtnauty.o:gtnauty.c:(.text+0x3a10): first defined here
+gtoolsL.o: In function `opengraphfile':
+gtools.c:(.text+0x0): multiple definition of `opengraphfile'
+gtools.o:gtools.c:(.text+0x0): first defined here
+gtoolsL.o: In function `graphsize':
+gtools.c:(.text+0x10a0): multiple definition of `graphsize'
+gtools.o:gtools.c:(.text+0x10a0): first defined here
+gtoolsL.o: In function `encodegraphsize':
+gtools.c:(.text+0x1130): multiple definition of `encodegraphsize'
+gtools.o:gtools.c:(.text+0x1130): first defined here
+gtoolsL.o: In function `stringcounts':
+gtools.c:(.text+0x11e0): multiple definition of `stringcounts'
+gtools.o:gtools.c:(.text+0x11e0): first defined here
+gtoolsL.o: In function `checkgline':
+gtools.c:(.text+0x13d0): multiple definition of `checkgline'
+gtools.o:gtools.c:(.text+0x13d0): first defined here
+gtoolsL.o: In function `longvalue':
+gtools.c:(.text+0x1560): multiple definition of `longvalue'
+gtools.o:gtools.c:(.text+0x1560): first defined here
+gtoolsL.o: In function `doublevalue':
+gtools.c:(.text+0x1630): multiple definition of `doublevalue'
+gtools.o:gtools.c:(.text+0x1630): first defined here
+gtoolsL.o: In function `strhaschar':
+gtools.c:(.text+0x1770): multiple definition of `strhaschar'
+gtools.o:gtools.c:(.text+0x1770): first defined here
+gtoolsL.o: In function `writerange':
+gtools.c:(.text+0x17b0): multiple definition of `writerange'
+gtools.o:gtools.c:(.text+0x17b0): first defined here
+gtoolsL.o: In function `gt_abort':
+gtools.c:(.text+0x1840): multiple definition of `gt_abort'
+gtools.o:gtools.c:(.text+0x1840): first defined here
+gtoolsL.o: In function `writeline':
+gtools.c:(.text+0x1880): multiple definition of `writeline'
+gtools.o:gtools.c:(.text+0x1880): first defined here
+gtoolsL.o: In function `writelast':
+gtools.c:(.text+0x18e0): multiple definition of `writelast'
+gtools.o:gtools.c:(.text+0x18e0): first defined here
+gtoolsL.o: In function `gtools_getline':
+gtools.c:(.text+0x18f0): multiple definition of `gtools_getline'
+gtools.o:gtools.c:(.text+0x18f0): first defined here
+gtoolsL.o: In function `getecline':
+gtools.c:(.text+0x1a80): multiple definition of `getecline'
+gtools.o:gtools.c:(.text+0x1a80): first defined here
+gtoolsL.o: In function `stringtograph':
+gtools.c:(.text+0x1d30): multiple definition of `stringtograph'
+gtools.o:gtools.c:(.text+0x1d30): first defined here
+gtoolsL.o: In function `stringtograph_inc':
+gtools.c:(.text+0x20c0): multiple definition of `stringtograph_inc'
+gtools.o:gtools.c:(.text+0x20c0): first defined here
+gtoolsL.o: In function `readgg':
+gtools.c:(.text+0x25c0): multiple definition of `readgg'
+gtools.o:gtools.c:(.text+0x25c0): first defined here
+gtoolsL.o: In function `readg':
+gtools.c:(.text+0x28c0): multiple definition of `readg'
+gtools.o:gtools.c:(.text+0x28c0): first defined here
+gtoolsL.o: In function `readgg_inc':
+gtools.c:(.text+0x2920): multiple definition of `readgg_inc'
+gtools.o:gtools.c:(.text+0x2920): first defined here
+gtoolsL.o: In function `readg_inc':
+gtools.c:(.text+0x2ca0): multiple definition of `readg_inc'
+gtools.o:gtools.c:(.text+0x2ca0): first defined here
+gtoolsL.o: In function `stringtosparsegraph':
+gtools.c:(.text+0x2d10): multiple definition of `stringtosparsegraph'
+gtools.o:gtools.c:(.text+0x2d10): first defined here
+gtoolsL.o: In function `read_sgg_loops':
+gtools.c:(.text+0x37c0): multiple definition of `read_sgg_loops'
+gtools.o:gtools.c:(.text+0x37c0): first defined here
+gtoolsL.o: In function `read_sg_loops':
+gtools.c:(.text+0x3ac0): multiple definition of `read_sg_loops'
+gtools.o:gtools.c:(.text+0x3ac0): first defined here
+gtoolsL.o: In function `read_sg':
+gtools.c:(.text+0x3b20): multiple definition of `read_sg'
+gtools.o:gtools.c:(.text+0x3b20): first defined here
+gtoolsL.o: In function `ntod6':
+gtools.c:(.text+0x3b80): multiple definition of `ntod6'
+gtools.o:gtools.c:(.text+0x3b80): first defined here
+gtoolsL.o: In function `writed6':
+gtools.c:(.text+0x3da0): multiple definition of `writed6'
+gtools.o:gtools.c:(.text+0x3da0): first defined here
+gtoolsL.o: In function `ntog6':
+gtools.c:(.text+0x3dc0): multiple definition of `ntog6'
+gtools.o:gtools.c:(.text+0x3dc0): first defined here
+gtoolsL.o: In function `writeg6':
+gtools.c:(.text+0x3fe0): multiple definition of `writeg6'
+gtools.o:gtools.c:(.text+0x3fe0): first defined here
+gtoolsL.o: In function `ntos6':
+gtools.c:(.text+0x4000): multiple definition of `ntos6'
+gtools.o:gtools.c:(.text+0x4000): first defined here
+gtoolsL.o: In function `ntois6':
+gtools.c:(.text+0x4560): multiple definition of `ntois6'
+gtools.o:gtools.c:(.text+0x4560): first defined here
+gtoolsL.o: In function `sgtos6':
+gtools.c:(.text+0x4af0): multiple definition of `sgtos6'
+gtools.o:gtools.c:(.text+0x4af0): first defined here
+gtoolsL.o: In function `sgtog6':
+gtools.c:(.text+0x50a0): multiple definition of `sgtog6'
+gtools.o:gtools.c:(.text+0x50a0): first defined here
+gtoolsL.o: In function `writeg6_sg':
+gtools.c:(.text+0x5300): multiple definition of `writeg6_sg'
+gtools.o:gtools.c:(.text+0x5300): first defined here
+gtoolsL.o: In function `sgtod6':
+gtools.c:(.text+0x5320): multiple definition of `sgtod6'
+gtools.o:gtools.c:(.text+0x5320): first defined here
+gtoolsL.o: In function `writed6_sg':
+gtools.c:(.text+0x5560): multiple definition of `writed6_sg'
+gtools.o:gtools.c:(.text+0x5560): first defined here
+gtoolsL.o: In function `writes6':
+gtools.c:(.text+0x5580): multiple definition of `writes6'
+gtools.o:gtools.c:(.text+0x5580): first defined here
+gtoolsL.o: In function `writeis6':
+gtools.c:(.text+0x55f0): multiple definition of `writeis6'
+gtools.o:gtools.c:(.text+0x55f0): first defined here
+gtoolsL.o: In function `writes6_sg':
+gtools.c:(.text+0x5660): multiple definition of `writes6_sg'
+gtools.o:gtools.c:(.text+0x5660): first defined here
+gtoolsL.o: In function `writepc_sg':
+gtools.c:(.text+0x56c0): multiple definition of `writepc_sg'
+gtools.o:gtools.c:(.text+0x56c0): first defined here
+gtoolsL.o: In function `readpc_sg':
+gtools.c:(.text+0x6180): multiple definition of `readpc_sg'
+gtools.o:gtools.c:(.text+0x6180): first defined here
+gtoolsL.o: In function `readpcle_sg':
+gtools.c:(.text+0x6890): multiple definition of `readpcle_sg'
+gtools.o:gtools.c:(.text+0x6890): first defined here
+gtoolsL.o: In function `arg_long':
+gtools.c:(.text+0x6fb0): multiple definition of `arg_long'
+gtools.o:gtools.c:(.text+0x6fb0): first defined here
+gtoolsL.o: In function `arg_int':
+gtools.c:(.text+0x7000): multiple definition of `arg_int'
+gtools.o:gtools.c:(.text+0x7000): first defined here
+gtoolsL.o: In function `arg_double':
+gtools.c:(.text+0x70a0): multiple definition of `arg_double'
+gtools.o:gtools.c:(.text+0x70a0): first defined here
+gtoolsL.o: In function `arg_range':
+gtools.c:(.text+0x70e0): multiple definition of `arg_range'
+gtools.o:gtools.c:(.text+0x70e0): first defined here
+gtoolsL.o: In function `arg_sequence':
+gtools.c:(.text+0x7270): multiple definition of `arg_sequence'
+gtools.o:gtools.c:(.text+0x7270): first defined here
+gtoolsL.o: In function `arg_doublerange':
+gtools.c:(.text+0x73d0): multiple definition of `arg_doublerange'
+gtools.o:gtools.c:(.text+0x73d0): first defined here
+gtoolsL.o: In function `stringcopy':
+gtools.c:(.text+0x7550): multiple definition of `stringcopy'
+gtools.o:gtools.c:(.text+0x7550): first defined here
+gtoolsL.o: In function `gtools_check':
+gtools.c:(.text+0x7840): multiple definition of `gtools_check'
+gtools.o:gtools.c:(.text+0x7840): first defined here
+gtoolsW.o: In function `opengraphfile':
+gtools.c:(.text+0x0): multiple definition of `opengraphfile'
+gtools.o:gtools.c:(.text+0x0): first defined here
+gtoolsW.o: In function `graphsize':
+gtools.c:(.text+0x10a0): multiple definition of `graphsize'
+gtools.o:gtools.c:(.text+0x10a0): first defined here
+gtoolsW.o: In function `encodegraphsize':
+gtools.c:(.text+0x1130): multiple definition of `encodegraphsize'
+gtools.o:gtools.c:(.text+0x1130): first defined here
+gtoolsW.o: In function `stringcounts':
+gtools.c:(.text+0x11e0): multiple definition of `stringcounts'
+gtools.o:gtools.c:(.text+0x11e0): first defined here
+gtoolsW.o: In function `checkgline':
+gtools.c:(.text+0x13d0): multiple definition of `checkgline'
+gtools.o:gtools.c:(.text+0x13d0): first defined here
+gtoolsW.o: In function `longvalue':
+gtools.c:(.text+0x1560): multiple definition of `longvalue'
+gtools.o:gtools.c:(.text+0x1560): first defined here
+gtoolsW.o: In function `doublevalue':
+gtools.c:(.text+0x1630): multiple definition of `doublevalue'
+gtools.o:gtools.c:(.text+0x1630): first defined here
+gtoolsW.o: In function `strhaschar':
+gtools.c:(.text+0x1770): multiple definition of `strhaschar'
+gtools.o:gtools.c:(.text+0x1770): first defined here
+gtoolsW.o: In function `writerange':
+gtools.c:(.text+0x17b0): multiple definition of `writerange'
+gtools.o:gtools.c:(.text+0x17b0): first defined here
+gtoolsW.o: In function `gt_abort':
+gtools.c:(.text+0x1840): multiple definition of `gt_abort'
+gtools.o:gtools.c:(.text+0x1840): first defined here
+gtoolsW.o: In function `writeline':
+gtools.c:(.text+0x1880): multiple definition of `writeline'
+gtools.o:gtools.c:(.text+0x1880): first defined here
+gtoolsW.o: In function `writelast':
+gtools.c:(.text+0x18e0): multiple definition of `writelast'
+gtools.o:gtools.c:(.text+0x18e0): first defined here
+gtoolsW.o: In function `gtools_getline':
+gtools.c:(.text+0x18f0): multiple definition of `gtools_getline'
+gtools.o:gtools.c:(.text+0x18f0): first defined here
+gtoolsW.o: In function `getecline':
+gtools.c:(.text+0x1a80): multiple definition of `getecline'
+gtools.o:gtools.c:(.text+0x1a80): first defined here
+gtoolsW.o: In function `stringtograph':
+gtools.c:(.text+0x1d30): multiple definition of `stringtograph'
+gtools.o:gtools.c:(.text+0x1d30): first defined here
+gtoolsW.o: In function `stringtograph_inc':
+gtools.c:(.text+0x20c0): multiple definition of `stringtograph_inc'
+gtools.o:gtools.c:(.text+0x20c0): first defined here
+gtoolsW.o: In function `readgg':
+gtools.c:(.text+0x2620): multiple definition of `readgg'
+gtools.o:gtools.c:(.text+0x25c0): first defined here
+gtoolsW.o: In function `readg':
+gtools.c:(.text+0x2920): multiple definition of `readg'
+gtools.o:gtools.c:(.text+0x28c0): first defined here
+gtoolsW.o: In function `readgg_inc':
+gtools.c:(.text+0x2980): multiple definition of `readgg_inc'
+gtools.o:gtools.c:(.text+0x2920): first defined here
+gtoolsW.o: In function `readg_inc':
+gtools.c:(.text+0x2d00): multiple definition of `readg_inc'
+gtools.o:gtools.c:(.text+0x2ca0): first defined here
+gtoolsW.o: In function `stringtosparsegraph':
+gtools.c:(.text+0x2d70): multiple definition of `stringtosparsegraph'
+gtools.o:gtools.c:(.text+0x2d10): first defined here
+gtoolsW.o: In function `read_sgg_loops':
+gtools.c:(.text+0x3820): multiple definition of `read_sgg_loops'
+gtools.o:gtools.c:(.text+0x37c0): first defined here
+gtoolsW.o: In function `read_sg_loops':
+gtools.c:(.text+0x3b20): multiple definition of `read_sg_loops'
+gtools.o:gtools.c:(.text+0x3ac0): first defined here
+gtoolsW.o: In function `read_sg':
+gtools.c:(.text+0x3b80): multiple definition of `read_sg'
+gtools.o:gtools.c:(.text+0x3b20): first defined here
+gtoolsW.o: In function `ntod6':
+gtools.c:(.text+0x3be0): multiple definition of `ntod6'
+gtools.o:gtools.c:(.text+0x3b80): first defined here
+gtoolsW.o: In function `writed6':
+gtools.c:(.text+0x3e00): multiple definition of `writed6'
+gtools.o:gtools.c:(.text+0x3da0): first defined here
+gtoolsW.o: In function `ntog6':
+gtools.c:(.text+0x3e20): multiple definition of `ntog6'
+gtools.o:gtools.c:(.text+0x3dc0): first defined here
+gtoolsW.o: In function `writeg6':
+gtools.c:(.text+0x4030): multiple definition of `writeg6'
+gtools.o:gtools.c:(.text+0x3fe0): first defined here
+gtoolsW.o: In function `ntos6':
+gtools.c:(.text+0x4050): multiple definition of `ntos6'
+gtools.o:gtools.c:(.text+0x4000): first defined here
+gtoolsW.o: In function `ntois6':
+gtools.c:(.text+0x45b0): multiple definition of `ntois6'
+gtools.o:gtools.c:(.text+0x4560): first defined here
+gtoolsW.o: In function `sgtos6':
+gtools.c:(.text+0x4b10): multiple definition of `sgtos6'
+gtools.o:gtools.c:(.text+0x4af0): first defined here
+gtoolsW.o: In function `sgtog6':
+gtools.c:(.text+0x50c0): multiple definition of `sgtog6'
+gtools.o:gtools.c:(.text+0x50a0): first defined here
+gtoolsW.o: In function `writeg6_sg':
+gtools.c:(.text+0x5320): multiple definition of `writeg6_sg'
+gtools.o:gtools.c:(.text+0x5300): first defined here
+gtoolsW.o: In function `sgtod6':
+gtools.c:(.text+0x5340): multiple definition of `sgtod6'
+gtools.o:gtools.c:(.text+0x5320): first defined here
+gtoolsW.o: In function `writed6_sg':
+gtools.c:(.text+0x5580): multiple definition of `writed6_sg'
+gtools.o:gtools.c:(.text+0x5560): first defined here
+gtoolsW.o: In function `writes6':
+gtools.c:(.text+0x55a0): multiple definition of `writes6'
+gtools.o:gtools.c:(.text+0x5580): first defined here
+gtoolsW.o: In function `writeis6':
+gtools.c:(.text+0x5610): multiple definition of `writeis6'
+gtools.o:gtools.c:(.text+0x55f0): first defined here
+gtoolsW.o: In function `writes6_sg':
+gtools.c:(.text+0x5680): multiple definition of `writes6_sg'
+gtools.o:gtools.c:(.text+0x5660): first defined here
+gtoolsW.o: In function `writepc_sg':
+gtools.c:(.text+0x56e0): multiple definition of `writepc_sg'
+gtools.o:gtools.c:(.text+0x56c0): first defined here
+gtoolsW.o: In function `readpc_sg':
+gtools.c:(.text+0x61a0): multiple definition of `readpc_sg'
+gtools.o:gtools.c:(.text+0x6180): first defined here
+gtoolsW.o: In function `readpcle_sg':
+gtools.c:(.text+0x68b0): multiple definition of `readpcle_sg'
+gtools.o:gtools.c:(.text+0x6890): first defined here
+gtoolsW.o: In function `arg_long':
+gtools.c:(.text+0x6fd0): multiple definition of `arg_long'
+gtools.o:gtools.c:(.text+0x6fb0): first defined here
+gtoolsW.o: In function `arg_int':
+gtools.c:(.text+0x7020): multiple definition of `arg_int'
+gtools.o:gtools.c:(.text+0x7000): first defined here
+gtoolsW.o: In function `arg_double':
+gtools.c:(.text+0x70c0): multiple definition of `arg_double'
+gtools.o:gtools.c:(.text+0x70a0): first defined here
+gtoolsW.o: In function `arg_range':
+gtools.c:(.text+0x7100): multiple definition of `arg_range'
+gtools.o:gtools.c:(.text+0x70e0): first defined here
+gtoolsW.o: In function `arg_sequence':
+gtools.c:(.text+0x7290): multiple definition of `arg_sequence'
+gtools.o:gtools.c:(.text+0x7270): first defined here
+gtoolsW.o: In function `arg_doublerange':
+gtools.c:(.text+0x73f0): multiple definition of `arg_doublerange'
+gtools.o:gtools.c:(.text+0x73d0): first defined here
+gtoolsW.o: In function `stringcopy':
+gtools.c:(.text+0x7570): multiple definition of `stringcopy'
+gtools.o:gtools.c:(.text+0x7550): first defined here
+gtoolsW.o: In function `gtools_check':
+gtools.c:(.text+0x7860): multiple definition of `gtools_check'
+gtools.o:gtools.c:(.text+0x7840): first defined here
+gutil1L.o: In function `degstats':
+gutil1.c:(.text+0x8c0): multiple definition of `degstats'
+gutil1.o:gutil1.c:(.text+0x8c0): first defined here
+gutil1L.o: In function `degstats2':
+gutil1.c:(.text+0x9d0): multiple definition of `degstats2'
+gutil1.o:gutil1.c:(.text+0x9d0): first defined here
+gutil1L.o: In function `isconnected1':
+gutil1.c:(.text+0x1110): multiple definition of `isconnected1'
+gutil1.o:gutil1.c:(.text+0x1110): first defined here
+gutil1L.o: In function `isconnected':
+gutil1.c:(.text+0x1160): multiple definition of `isconnected'
+gutil1.o:gutil1.c:(.text+0x1160): first defined here
+gutil1L.o: In function `issubconnected':
+gutil1.c:(.text+0x1320): multiple definition of `issubconnected'
+gutil1.o:gutil1.c:(.text+0x1320): first defined here
+gutil1L.o: In function `isbiconnected1':
+gutil1.c:(.text+0x1730): multiple definition of `isbiconnected1'
+gutil1.o:gutil1.c:(.text+0x1730): first defined here
+gutil1L.o: In function `isbiconnected':
+gutil1.c:(.text+0x1750): multiple definition of `isbiconnected'
+gutil1.o:gutil1.c:(.text+0x1750): first defined here
+gutil1L.o: In function `twocolouring':
+gutil1.c:(.text+0x1a20): multiple definition of `twocolouring'
+gutil1.o:gutil1.c:(.text+0x1a20): first defined here
+gutil1L.o: In function `isbipartite':
+gutil1.c:(.text+0x1cb0): multiple definition of `isbipartite'
+gutil1.o:gutil1.c:(.text+0x1cb0): first defined here
+gutil1L.o: In function `bipartiteside':
+gutil1.c:(.text+0x1d50): multiple definition of `bipartiteside'
+gutil1.o:gutil1.c:(.text+0x1d50): first defined here
+gutil1L.o: In function `girth':
+gutil1.c:(.text+0x1f40): multiple definition of `girth'
+gutil1.o:gutil1.c:(.text+0x1f40): first defined here
+gutil1L.o: In function `find_dist':
+gutil1.c:(.text+0x21a0): multiple definition of `find_dist'
+gutil1.o:gutil1.c:(.text+0x21a0): first defined here
+gutil1L.o: In function `find_dist2':
+gutil1.c:(.text+0x23f0): multiple definition of `find_dist2'
+gutil1.o:gutil1.c:(.text+0x23f0): first defined here
+gutil1L.o: In function `diamstats':
+gutil1.c:(.text+0x2650): multiple definition of `diamstats'
+gutil1.o:gutil1.c:(.text+0x2650): first defined here
+gutil1L.o: In function `maxcliques':
+gutil1.c:(.text+0x28f0): multiple definition of `maxcliques'
+gutil1.o:gutil1.c:(.text+0x28f0): first defined here
+gutil1L1.o: In function `degstats':
+gutil1.c:(.text+0x8c0): multiple definition of `degstats'
+gutil1.o:gutil1.c:(.text+0x8c0): first defined here
+gutil1L1.o: In function `degstats2':
+gutil1.c:(.text+0x9d0): multiple definition of `degstats2'
+gutil1.o:gutil1.c:(.text+0x9d0): first defined here
+gutil1L1.o: In function `isconnected1':
+gutil1.c:(.text+0xf20): multiple definition of `isconnected1'
+gutil1.o:gutil1.c:(.text+0x1110): first defined here
+gutil1L1.o: In function `isconnected':
+gutil1.c:(.text+0xf70): multiple definition of `isconnected'
+gutil1.o:gutil1.c:(.text+0x1160): first defined here
+gutil1L1.o: In function `issubconnected':
+gutil1.c:(.text+0x10d0): multiple definition of `issubconnected'
+gutil1.o:gutil1.c:(.text+0x1320): first defined here
+gutil1L1.o: In function `isbiconnected1':
+gutil1.c:(.text+0x1260): multiple definition of `isbiconnected1'
+gutil1.o:gutil1.c:(.text+0x1730): first defined here
+gutil1L1.o: In function `isbiconnected':
+gutil1.c:(.text+0x1280): multiple definition of `isbiconnected'
+gutil1.o:gutil1.c:(.text+0x1750): first defined here
+gutil1L1.o: In function `twocolouring':
+gutil1.c:(.text+0x1470): multiple definition of `twocolouring'
+gutil1.o:gutil1.c:(.text+0x1a20): first defined here
+gutil1L1.o: In function `isbipartite':
+gutil1.c:(.text+0x16b0): multiple definition of `isbipartite'
+gutil1.o:gutil1.c:(.text+0x1cb0): first defined here
+gutil1L1.o: In function `bipartiteside':
+gutil1.c:(.text+0x1700): multiple definition of `bipartiteside'
+gutil1.o:gutil1.c:(.text+0x1d50): first defined here
+gutil1L1.o: In function `girth':
+gutil1.c:(.text+0x18e0): multiple definition of `girth'
+gutil1.o:gutil1.c:(.text+0x1f40): first defined here
+gutil1L1.o: In function `find_dist':
+gutil1.c:(.text+0x1aa0): multiple definition of `find_dist'
+gutil1.o:gutil1.c:(.text+0x21a0): first defined here
+gutil1L1.o: In function `find_dist2':
+gutil1.c:(.text+0x1ca0): multiple definition of `find_dist2'
+gutil1.o:gutil1.c:(.text+0x23f0): first defined here
+gutil1L1.o: In function `diamstats':
+gutil1.c:(.text+0x1eb0): multiple definition of `diamstats'
+gutil1.o:gutil1.c:(.text+0x2650): first defined here
+gutil1L1.o: In function `maxcliques':
+gutil1.c:(.text+0x2090): multiple definition of `maxcliques'
+gutil1.o:gutil1.c:(.text+0x28f0): first defined here
+gutil1W.o: In function `degstats':
+gutil1.c:(.text+0x750): multiple definition of `degstats'
+gutil1.o:gutil1.c:(.text+0x8c0): first defined here
+gutil1W.o: In function `degstats2':
+gutil1.c:(.text+0x860): multiple definition of `degstats2'
+gutil1.o:gutil1.c:(.text+0x9d0): first defined here
+gutil1W.o: In function `isconnected1':
+gutil1.c:(.text+0xfa0): multiple definition of `isconnected1'
+gutil1.o:gutil1.c:(.text+0x1110): first defined here
+gutil1W.o: In function `isconnected':
+gutil1.c:(.text+0xff0): multiple definition of `isconnected'
+gutil1.o:gutil1.c:(.text+0x1160): first defined here
+gutil1W.o: In function `issubconnected':
+gutil1.c:(.text+0x11b0): multiple definition of `issubconnected'
+gutil1.o:gutil1.c:(.text+0x1320): first defined here
+gutil1W.o: In function `isbiconnected1':
+gutil1.c:(.text+0x1650): multiple definition of `isbiconnected1'
+gutil1.o:gutil1.c:(.text+0x1730): first defined here
+gutil1W.o: In function `isbiconnected':
+gutil1.c:(.text+0x1670): multiple definition of `isbiconnected'
+gutil1.o:gutil1.c:(.text+0x1750): first defined here
+gutil1W.o: In function `twocolouring':
+gutil1.c:(.text+0x1940): multiple definition of `twocolouring'
+gutil1.o:gutil1.c:(.text+0x1a20): first defined here
+gutil1W.o: In function `isbipartite':
+gutil1.c:(.text+0x1bc0): multiple definition of `isbipartite'
+gutil1.o:gutil1.c:(.text+0x1cb0): first defined here
+gutil1W.o: In function `bipartiteside':
+gutil1.c:(.text+0x1c60): multiple definition of `bipartiteside'
+gutil1.o:gutil1.c:(.text+0x1d50): first defined here
+gutil1W.o: In function `girth':
+gutil1.c:(.text+0x1e50): multiple definition of `girth'
+gutil1.o:gutil1.c:(.text+0x1f40): first defined here
+gutil1W.o: In function `find_dist':
+gutil1.c:(.text+0x20b0): multiple definition of `find_dist'
+gutil1.o:gutil1.c:(.text+0x21a0): first defined here
+gutil1W.o: In function `find_dist2':
+gutil1.c:(.text+0x2300): multiple definition of `find_dist2'
+gutil1.o:gutil1.c:(.text+0x23f0): first defined here
+gutil1W.o: In function `diamstats':
+gutil1.c:(.text+0x2560): multiple definition of `diamstats'
+gutil1.o:gutil1.c:(.text+0x2650): first defined here
+gutil1W.o: In function `maxcliques':
+gutil1.c:(.text+0x2800): multiple definition of `maxcliques'
+gutil1.o:gutil1.c:(.text+0x28f0): first defined here
+gutil1W1.o: In function `degstats':
+gutil1.c:(.text+0x750): multiple definition of `degstats'
+gutil1.o:gutil1.c:(.text+0x8c0): first defined here
+gutil1W1.o: In function `degstats2':
+gutil1.c:(.text+0x860): multiple definition of `degstats2'
+gutil1.o:gutil1.c:(.text+0x9d0): first defined here
+gutil1W1.o: In function `isconnected1':
+gutil1.c:(.text+0xdc0): multiple definition of `isconnected1'
+gutil1.o:gutil1.c:(.text+0x1110): first defined here
+gutil1W1.o: In function `isconnected':
+gutil1.c:(.text+0xe10): multiple definition of `isconnected'
+gutil1.o:gutil1.c:(.text+0x1160): first defined here
+gutil1W1.o: In function `issubconnected':
+gutil1.c:(.text+0xf70): multiple definition of `issubconnected'
+gutil1.o:gutil1.c:(.text+0x1320): first defined here
+gutil1W1.o: In function `isbiconnected1':
+gutil1.c:(.text+0x1100): multiple definition of `isbiconnected1'
+gutil1.o:gutil1.c:(.text+0x1730): first defined here
+gutil1W1.o: In function `isbiconnected':
+gutil1.c:(.text+0x1120): multiple definition of `isbiconnected'
+gutil1.o:gutil1.c:(.text+0x1750): first defined here
+gutil1W1.o: In function `twocolouring':
+gutil1.c:(.text+0x1310): multiple definition of `twocolouring'
+gutil1.o:gutil1.c:(.text+0x1a20): first defined here
+gutil1W1.o: In function `isbipartite':
+gutil1.c:(.text+0x1550): multiple definition of `isbipartite'
+gutil1.o:gutil1.c:(.text+0x1cb0): first defined here
+gutil1W1.o: In function `bipartiteside':
+gutil1.c:(.text+0x15a0): multiple definition of `bipartiteside'
+gutil1.o:gutil1.c:(.text+0x1d50): first defined here
+gutil1W1.o: In function `girth':
+gutil1.c:(.text+0x16f0): multiple definition of `girth'
+gutil1.o:gutil1.c:(.text+0x1f40): first defined here
+gutil1W1.o: In function `find_dist':
+gutil1.c:(.text+0x18b0): multiple definition of `find_dist'
+gutil1.o:gutil1.c:(.text+0x21a0): first defined here
+gutil1W1.o: In function `find_dist2':
+gutil1.c:(.text+0x1ab0): multiple definition of `find_dist2'
+gutil1.o:gutil1.c:(.text+0x23f0): first defined here
+gutil1W1.o: In function `diamstats':
+gutil1.c:(.text+0x1cc0): multiple definition of `diamstats'
+gutil1.o:gutil1.c:(.text+0x2650): first defined here
+gutil1W1.o: In function `maxcliques':
+gutil1.c:(.text+0x1ea0): multiple definition of `maxcliques'
+gutil1.o:gutil1.c:(.text+0x28f0): first defined here
+gutil2L.o: In function `loopcount':
+gutil2.c:(.text+0x0): multiple definition of `loopcount'
+gutil2.o:gutil2.c:(.text+0x0): first defined here
+gutil2L.o: In function `pathcount1':
+gutil2.c:(.text+0x70): multiple definition of `pathcount1'
+gutil2.o:gutil2.c:(.text+0x70): first defined here
+gutil2L.o: In function `cyclecount1':
+gutil2.c:(.text+0x110): multiple definition of `cyclecount1'
+gutil2.o:gutil2.c:(.text+0x110): first defined here
+gutil2L.o: In function `cyclecount':
+gutil2.c:(.text+0x1e0): multiple definition of `cyclecount'
+gutil2.o:gutil2.c:(.text+0x1e0): first defined here
+gutil2L.o: In function `indpathcount1':
+gutil2.c:(.text+0x210): multiple definition of `indpathcount1'
+gutil2.o:gutil2.c:(.text+0x210): first defined here
+gutil2L.o: In function `indcyclecount1':
+gutil2.c:(.text+0x2b0): multiple definition of `indcyclecount1'
+gutil2.o:gutil2.c:(.text+0x2b0): first defined here
+gutil2L.o: In function `indcyclecount':
+gutil2.c:(.text+0x3a0): multiple definition of `indcyclecount'
+gutil2.o:gutil2.c:(.text+0x3a0): first defined here
+gutil2L.o: In function `numtriangles1':
+gutil2.c:(.text+0x3d0): multiple definition of `numtriangles1'
+gutil2.o:gutil2.c:(.text+0x3d0): first defined here
+gutil2L.o: In function `numtriangles':
+gutil2.c:(.text+0x450): multiple definition of `numtriangles'
+gutil2.o:gutil2.c:(.text+0x450): first defined here
+gutil2L.o: In function `numdirtriangles':
+gutil2.c:(.text+0x580): multiple definition of `numdirtriangles'
+gutil2.o:gutil2.c:(.text+0x580): first defined here
+gutil2L.o: In function `commonnbrs':
+gutil2.c:(.text+0x690): multiple definition of `commonnbrs'
+gutil2.o:gutil2.c:(.text+0x690): first defined here
+gutil2L.o: In function `delete1':
+gutil2.c:(.text+0x7d0): multiple definition of `delete1'
+gutil2.o:gutil2.c:(.text+0x7d0): first defined here
+gutil2L.o: In function `contract1':
+gutil2.c:(.text+0xb20): multiple definition of `contract1'
+gutil2.o:gutil2.c:(.text+0xb20): first defined here
+gutil2L.o: In function `conncontent':
+gutil2.c:(.text+0xc30): multiple definition of `conncontent'
+gutil2.o:gutil2.c:(.text+0xc30): first defined here
+gutil2L.o: In function `stronglyconnected':
+gutil2.c:(.text+0x13a0): multiple definition of `stronglyconnected'
+gutil2.o:gutil2.c:(.text+0x13a0): first defined here
+gutil2L1.o: In function `loopcount':
+gutil2.c:(.text+0x0): multiple definition of `loopcount'
+gutil2.o:gutil2.c:(.text+0x0): first defined here
+gutil2L1.o: In function `pathcount1':
+gutil2.c:(.text+0x70): multiple definition of `pathcount1'
+gutil2.o:gutil2.c:(.text+0x70): first defined here
+gutil2L1.o: In function `cyclecount1':
+gutil2.c:(.text+0x110): multiple definition of `cyclecount1'
+gutil2.o:gutil2.c:(.text+0x110): first defined here
+gutil2L1.o: In function `cyclecount':
+gutil2.c:(.text+0x1e0): multiple definition of `cyclecount'
+gutil2.o:gutil2.c:(.text+0x1e0): first defined here
+gutil2L1.o: In function `indpathcount1':
+gutil2.c:(.text+0x210): multiple definition of `indpathcount1'
+gutil2.o:gutil2.c:(.text+0x210): first defined here
+gutil2L1.o: In function `indcyclecount1':
+gutil2.c:(.text+0x2b0): multiple definition of `indcyclecount1'
+gutil2.o:gutil2.c:(.text+0x2b0): first defined here
+gutil2L1.o: In function `indcyclecount':
+gutil2.c:(.text+0x3a0): multiple definition of `indcyclecount'
+gutil2.o:gutil2.c:(.text+0x3a0): first defined here
+gutil2L1.o: In function `numtriangles1':
+gutil2.c:(.text+0x3d0): multiple definition of `numtriangles1'
+gutil2.o:gutil2.c:(.text+0x3d0): first defined here
+gutil2L1.o: In function `numtriangles':
+gutil2.c:(.text+0x450): multiple definition of `numtriangles'
+gutil2.o:gutil2.c:(.text+0x450): first defined here
+gutil2L1.o: In function `numdirtriangles':
+gutil2.c:(.text+0x580): multiple definition of `numdirtriangles'
+gutil2.o:gutil2.c:(.text+0x580): first defined here
+gutil2L1.o: In function `commonnbrs':
+gutil2.c:(.text+0x690): multiple definition of `commonnbrs'
+gutil2.o:gutil2.c:(.text+0x690): first defined here
+gutil2L1.o: In function `delete1':
+gutil2.c:(.text+0x7d0): multiple definition of `delete1'
+gutil2.o:gutil2.c:(.text+0x7d0): first defined here
+gutil2L1.o: In function `contract1':
+gutil2.c:(.text+0xb20): multiple definition of `contract1'
+gutil2.o:gutil2.c:(.text+0xb20): first defined here
+gutil2L1.o: In function `conncontent':
+gutil2.c:(.text+0xc30): multiple definition of `conncontent'
+gutil2.o:gutil2.c:(.text+0xc30): first defined here
+gutil2L1.o: In function `stronglyconnected':
+gutil2.c:(.text+0x13a0): multiple definition of `stronglyconnected'
+gutil2.o:gutil2.c:(.text+0x13a0): first defined here
+gutil2W.o: In function `loopcount':
+gutil2.c:(.text+0x0): multiple definition of `loopcount'
+gutil2.o:gutil2.c:(.text+0x0): first defined here
+gutil2W.o: In function `pathcount1':
+gutil2.c:(.text+0x60): multiple definition of `pathcount1'
+gutil2.o:gutil2.c:(.text+0x70): first defined here
+gutil2W.o: In function `cyclecount1':
+gutil2.c:(.text+0xf0): multiple definition of `cyclecount1'
+gutil2.o:gutil2.c:(.text+0x110): first defined here
+gutil2W.o: In function `cyclecount':
+gutil2.c:(.text+0x1c0): multiple definition of `cyclecount'
+gutil2.o:gutil2.c:(.text+0x1e0): first defined here
+gutil2W.o: In function `indpathcount1':
+gutil2.c:(.text+0x1f0): multiple definition of `indpathcount1'
+gutil2.o:gutil2.c:(.text+0x210): first defined here
+gutil2W.o: In function `indcyclecount1':
+gutil2.c:(.text+0x280): multiple definition of `indcyclecount1'
+gutil2.o:gutil2.c:(.text+0x2b0): first defined here
+gutil2W.o: In function `indcyclecount':
+gutil2.c:(.text+0x360): multiple definition of `indcyclecount'
+gutil2.o:gutil2.c:(.text+0x3a0): first defined here
+gutil2W.o: In function `numtriangles1':
+gutil2.c:(.text+0x390): multiple definition of `numtriangles1'
+gutil2.o:gutil2.c:(.text+0x3d0): first defined here
+gutil2W.o: In function `numtriangles':
+gutil2.c:(.text+0x410): multiple definition of `numtriangles'
+gutil2.o:gutil2.c:(.text+0x450): first defined here
+gutil2W.o: In function `numdirtriangles':
+gutil2.c:(.text+0x540): multiple definition of `numdirtriangles'
+gutil2.o:gutil2.c:(.text+0x580): first defined here
+gutil2W.o: In function `commonnbrs':
+gutil2.c:(.text+0x650): multiple definition of `commonnbrs'
+gutil2.o:gutil2.c:(.text+0x690): first defined here
+gutil2W.o: In function `delete1':
+gutil2.c:(.text+0x790): multiple definition of `delete1'
+gutil2.o:gutil2.c:(.text+0x7d0): first defined here
+gutil2W.o: In function `contract1':
+gutil2.c:(.text+0xc70): multiple definition of `contract1'
+gutil2.o:gutil2.c:(.text+0xb20): first defined here
+gutil2W.o: In function `conncontent':
+gutil2.c:(.text+0x1040): multiple definition of `conncontent'
+gutil2.o:gutil2.c:(.text+0xc30): first defined here
+gutil2W.o: In function `stronglyconnected':
+gutil2.c:(.text+0x17a0): multiple definition of `stronglyconnected'
+gutil2.o:gutil2.c:(.text+0x13a0): first defined here
+gutil2W1.o: In function `loopcount':
+gutil2.c:(.text+0x0): multiple definition of `loopcount'
+gutil2.o:gutil2.c:(.text+0x0): first defined here
+gutil2W1.o: In function `pathcount1':
+gutil2.c:(.text+0x60): multiple definition of `pathcount1'
+gutil2.o:gutil2.c:(.text+0x70): first defined here
+gutil2W1.o: In function `cyclecount1':
+gutil2.c:(.text+0xf0): multiple definition of `cyclecount1'
+gutil2.o:gutil2.c:(.text+0x110): first defined here
+gutil2W1.o: In function `cyclecount':
+gutil2.c:(.text+0x1c0): multiple definition of `cyclecount'
+gutil2.o:gutil2.c:(.text+0x1e0): first defined here
+gutil2W1.o: In function `indpathcount1':
+gutil2.c:(.text+0x1f0): multiple definition of `indpathcount1'
+gutil2.o:gutil2.c:(.text+0x210): first defined here
+gutil2W1.o: In function `indcyclecount1':
+gutil2.c:(.text+0x280): multiple definition of `indcyclecount1'
+gutil2.o:gutil2.c:(.text+0x2b0): first defined here
+gutil2W1.o: In function `indcyclecount':
+gutil2.c:(.text+0x360): multiple definition of `indcyclecount'
+gutil2.o:gutil2.c:(.text+0x3a0): first defined here
+gutil2W1.o: In function `numtriangles1':
+gutil2.c:(.text+0x390): multiple definition of `numtriangles1'
+gutil2.o:gutil2.c:(.text+0x3d0): first defined here
+gutil2W1.o: In function `numtriangles':
+gutil2.c:(.text+0x410): multiple definition of `numtriangles'
+gutil2.o:gutil2.c:(.text+0x450): first defined here
+gutil2W1.o: In function `numdirtriangles':
+gutil2.c:(.text+0x540): multiple definition of `numdirtriangles'
+gutil2.o:gutil2.c:(.text+0x580): first defined here
+gutil2W1.o: In function `commonnbrs':
+gutil2.c:(.text+0x650): multiple definition of `commonnbrs'
+gutil2.o:gutil2.c:(.text+0x690): first defined here
+gutil2W1.o: In function `delete1':
+gutil2.c:(.text+0x790): multiple definition of `delete1'
+gutil2.o:gutil2.c:(.text+0x7d0): first defined here
+gutil2W1.o: In function `contract1':
+gutil2.c:(.text+0xc70): multiple definition of `contract1'
+gutil2.o:gutil2.c:(.text+0xb20): first defined here
+gutil2W1.o: In function `conncontent':
+gutil2.c:(.text+0x1040): multiple definition of `conncontent'
+gutil2.o:gutil2.c:(.text+0xc30): first defined here
+gutil2W1.o: In function `stronglyconnected':
+gutil2.c:(.text+0x17a0): multiple definition of `stronglyconnected'
+gutil2.o:gutil2.c:(.text+0x13a0): first defined here
+naugraph1.o: In function `naugraph_freedyn':
+naugraph.c:(.text+0x0): multiple definition of `naugraph_freedyn'
+naugraph.o:naugraph.c:(.text+0xf0): first defined here
+naugraph1.o: In function `isautom':
+naugraph.c:(.text+0x10): multiple definition of `isautom'
+naugraph.o:naugraph.c:(.text+0x0): first defined here
+naugraph1.o: In function `testcanlab':
+naugraph.c:(.text+0xd0): multiple definition of `testcanlab'
+naugraph.o:naugraph.c:(.text+0x1a0): first defined here
+naugraph1.o: In function `updatecan':
+naugraph.c:(.text+0x190): multiple definition of `updatecan'
+naugraph.o:naugraph.c:(.text+0x3d0): first defined here
+naugraph1.o: In function `refine1':
+naugraph.c:(.text+0x220): multiple definition of `refine1'
+naugraph.o:naugraph.c:(.text+0x10e0): first defined here
+naugraph1.o: In function `refine':
+naugraph.c:(.text+0xca0): multiple definition of `refine'
+naugraph.o:naugraph.c:(.text+0x520): first defined here
+naugraph1.o: In function `cheapautom':
+naugraph.c:(.text+0xcb0): multiple definition of `cheapautom'
+naugraph.o:naugraph.c:(.text+0x1b80): first defined here
+naugraph1.o: In function `targetcell':
+naugraph.c:(.text+0xd40): multiple definition of `targetcell'
+naugraph.o:naugraph.c:(.text+0x1c10): first defined here
+naugraph1.o: In function `naugraph_check':
+naugraph.c:(.text+0xf80): multiple definition of `naugraph_check'
+naugraph.o:naugraph.c:(.text+0x2240): first defined here
+naugraph1.o: In function `densenauty':
+naugraph.c:(.text+0x1050): multiple definition of `densenauty'
+naugraph.o:naugraph.c:(.text+0x22b0): first defined here
+naugraph1.o:(.data.rel+0x0): multiple definition of `dispatch_graph'
+naugraph.o:(.data.rel+0x0): first defined here
+naugraphL.o: In function `isautom':
+naugraph.c:(.text+0x0): multiple definition of `isautom'
+naugraph.o:naugraph.c:(.text+0x0): first defined here
+naugraphL.o: In function `naugraph_freedyn':
+naugraph.c:(.text+0xf0): multiple definition of `naugraph_freedyn'
+naugraph.o:naugraph.c:(.text+0xf0): first defined here
+naugraphL.o: In function `testcanlab':
+naugraph.c:(.text+0x1a0): multiple definition of `testcanlab'
+naugraph.o:naugraph.c:(.text+0x1a0): first defined here
+naugraphL.o: In function `updatecan':
+naugraph.c:(.text+0x3d0): multiple definition of `updatecan'
+naugraph.o:naugraph.c:(.text+0x3d0): first defined here
+naugraphL.o: In function `refine':
+naugraph.c:(.text+0x520): multiple definition of `refine'
+naugraph.o:naugraph.c:(.text+0x520): first defined here
+naugraphL.o: In function `refine1':
+naugraph.c:(.text+0x10e0): multiple definition of `refine1'
+naugraph.o:naugraph.c:(.text+0x10e0): first defined here
+naugraphL.o: In function `cheapautom':
+naugraph.c:(.text+0x1b80): multiple definition of `cheapautom'
+naugraph.o:naugraph.c:(.text+0x1b80): first defined here
+naugraphL.o: In function `targetcell':
+naugraph.c:(.text+0x1c10): multiple definition of `targetcell'
+naugraph.o:naugraph.c:(.text+0x1c10): first defined here
+naugraphL.o: In function `naugraph_check':
+naugraph.c:(.text+0x2240): multiple definition of `naugraph_check'
+naugraph.o:naugraph.c:(.text+0x2240): first defined here
+naugraphL.o: In function `densenauty':
+naugraph.c:(.text+0x22b0): multiple definition of `densenauty'
+naugraph.o:naugraph.c:(.text+0x22b0): first defined here
+naugraphL.o:(.data.rel+0x0): multiple definition of `dispatch_graph'
+naugraph.o:(.data.rel+0x0): first defined here
+naugraphL1.o: In function `naugraph_freedyn':
+naugraph.c:(.text+0x0): multiple definition of `naugraph_freedyn'
+naugraph.o:naugraph.c:(.text+0xf0): first defined here
+naugraphL1.o: In function `isautom':
+naugraph.c:(.text+0x10): multiple definition of `isautom'
+naugraph.o:naugraph.c:(.text+0x0): first defined here
+naugraphL1.o: In function `testcanlab':
+naugraph.c:(.text+0xd0): multiple definition of `testcanlab'
+naugraph.o:naugraph.c:(.text+0x1a0): first defined here
+naugraphL1.o: In function `updatecan':
+naugraph.c:(.text+0x190): multiple definition of `updatecan'
+naugraph.o:naugraph.c:(.text+0x3d0): first defined here
+naugraphL1.o: In function `refine1':
+naugraph.c:(.text+0x220): multiple definition of `refine1'
+naugraph.o:naugraph.c:(.text+0x10e0): first defined here
+naugraphL1.o: In function `refine':
+naugraph.c:(.text+0xca0): multiple definition of `refine'
+naugraph.o:naugraph.c:(.text+0x520): first defined here
+naugraphL1.o: In function `cheapautom':
+naugraph.c:(.text+0xcb0): multiple definition of `cheapautom'
+naugraph.o:naugraph.c:(.text+0x1b80): first defined here
+naugraphL1.o: In function `targetcell':
+naugraph.c:(.text+0xd40): multiple definition of `targetcell'
+naugraph.o:naugraph.c:(.text+0x1c10): first defined here
+naugraphL1.o: In function `naugraph_check':
+naugraph.c:(.text+0xf80): multiple definition of `naugraph_check'
+naugraph.o:naugraph.c:(.text+0x2240): first defined here
+naugraphL1.o: In function `densenauty':
+naugraph.c:(.text+0x1050): multiple definition of `densenauty'
+naugraph.o:naugraph.c:(.text+0x22b0): first defined here
+naugraphL1.o:(.data.rel+0x0): multiple definition of `dispatch_graph'
+naugraph.o:(.data.rel+0x0): first defined here
+naugraphW.o: In function `isautom':
+naugraph.c:(.text+0x0): multiple definition of `isautom'
+naugraph.o:naugraph.c:(.text+0x0): first defined here
+naugraphW.o: In function `naugraph_freedyn':
+naugraph.c:(.text+0xf0): multiple definition of `naugraph_freedyn'
+naugraph.o:naugraph.c:(.text+0xf0): first defined here
+naugraphW.o: In function `testcanlab':
+naugraph.c:(.text+0x1a0): multiple definition of `testcanlab'
+naugraph.o:naugraph.c:(.text+0x1a0): first defined here
+naugraphW.o: In function `updatecan':
+naugraph.c:(.text+0x3c0): multiple definition of `updatecan'
+naugraph.o:naugraph.c:(.text+0x3d0): first defined here
+naugraphW.o: In function `refine':
+naugraph.c:(.text+0x510): multiple definition of `refine'
+naugraph.o:naugraph.c:(.text+0x520): first defined here
+naugraphW.o: In function `refine1':
+naugraph.c:(.text+0x10b0): multiple definition of `refine1'
+naugraph.o:naugraph.c:(.text+0x10e0): first defined here
+naugraphW.o: In function `cheapautom':
+naugraph.c:(.text+0x1b10): multiple definition of `cheapautom'
+naugraph.o:naugraph.c:(.text+0x1b80): first defined here
+naugraphW.o: In function `targetcell':
+naugraph.c:(.text+0x1ba0): multiple definition of `targetcell'
+naugraph.o:naugraph.c:(.text+0x1c10): first defined here
+naugraphW.o: In function `naugraph_check':
+naugraph.c:(.text+0x2340): multiple definition of `naugraph_check'
+naugraph.o:naugraph.c:(.text+0x2240): first defined here
+naugraphW.o: In function `densenauty':
+naugraph.c:(.text+0x23b0): multiple definition of `densenauty'
+naugraph.o:naugraph.c:(.text+0x22b0): first defined here
+naugraphW.o:(.data.rel+0x0): multiple definition of `dispatch_graph'
+naugraph.o:(.data.rel+0x0): first defined here
+naugraphW1.o: In function `naugraph_freedyn':
+naugraph.c:(.text+0x0): multiple definition of `naugraph_freedyn'
+naugraph.o:naugraph.c:(.text+0xf0): first defined here
+naugraphW1.o: In function `isautom':
+naugraph.c:(.text+0x10): multiple definition of `isautom'
+naugraph.o:naugraph.c:(.text+0x0): first defined here
+naugraphW1.o: In function `testcanlab':
+naugraph.c:(.text+0xd0): multiple definition of `testcanlab'
+naugraph.o:naugraph.c:(.text+0x1a0): first defined here
+naugraphW1.o: In function `updatecan':
+naugraph.c:(.text+0x190): multiple definition of `updatecan'
+naugraph.o:naugraph.c:(.text+0x3d0): first defined here
+naugraphW1.o: In function `refine1':
+naugraph.c:(.text+0x230): multiple definition of `refine1'
+naugraph.o:naugraph.c:(.text+0x10e0): first defined here
+naugraphW1.o: In function `refine':
+naugraph.c:(.text+0xbf0): multiple definition of `refine'
+naugraph.o:naugraph.c:(.text+0x520): first defined here
+naugraphW1.o: In function `cheapautom':
+naugraph.c:(.text+0xc00): multiple definition of `cheapautom'
+naugraph.o:naugraph.c:(.text+0x1b80): first defined here
+naugraphW1.o: In function `targetcell':
+naugraph.c:(.text+0xc90): multiple definition of `targetcell'
+naugraph.o:naugraph.c:(.text+0x1c10): first defined here
+naugraphW1.o: In function `naugraph_check':
+naugraph.c:(.text+0xee0): multiple definition of `naugraph_check'
+naugraph.o:naugraph.c:(.text+0x2240): first defined here
+naugraphW1.o: In function `densenauty':
+naugraph.c:(.text+0xfb0): multiple definition of `densenauty'
+naugraph.o:naugraph.c:(.text+0x22b0): first defined here
+naugraphW1.o:(.data.rel+0x0): multiple definition of `dispatch_graph'
+naugraph.o:(.data.rel+0x0): first defined here
+naugroupL.o: In function `newpermrec':
+naugroup.c:(.text+0x660): multiple definition of `newpermrec'
+naugroup.o:naugroup.c:(.text+0x660): first defined here
+naugroupL.o: In function `freepermrec':
+naugroup.c:(.text+0x710): multiple definition of `freepermrec'
+naugroup.o:naugroup.c:(.text+0x710): first defined here
+naugroupL.o: In function `groupptr':
+naugroup.c:(.text+0x780): multiple definition of `groupptr'
+naugroup.o:naugroup.c:(.text+0x780): first defined here
+naugroupL.o: In function `freegroup':
+naugroup.c:(.text+0x7c0): multiple definition of `freegroup'
+naugroup.o:naugroup.c:(.text+0x7c0): first defined here
+naugroupL.o: In function `groupautomproc':
+naugroup.c:(.text+0x8a0): multiple definition of `groupautomproc'
+naugroup.o:naugroup.c:(.text+0x8a0): first defined here
+naugroupL.o: In function `grouplevelproc':
+naugroup.c:(.text+0x910): multiple definition of `grouplevelproc'
+naugroup.o:naugroup.c:(.text+0x910): first defined here
+naugroupL.o: In function `makecosetreps':
+naugroup.c:(.text+0xa50): multiple definition of `makecosetreps'
+naugroup.o:naugroup.c:(.text+0xa50): first defined here
+naugroupL.o: In function `permcycles':
+naugroup.c:(.text+0xe20): multiple definition of `permcycles'
+naugroup.o:naugroup.c:(.text+0xe20): first defined here
+naugroupL.o: In function `allgroup':
+naugroup.c:(.text+0x1050): multiple definition of `allgroup'
+naugroup.o:naugroup.c:(.text+0x1050): first defined here
+naugroupL.o: In function `allgroup2':
+naugroup.c:(.text+0x1450): multiple definition of `allgroup2'
+naugroup.o:naugroup.c:(.text+0x1450): first defined here
+naugroupL.o: In function `allgroup3':
+naugroup.c:(.text+0x17a0): multiple definition of `allgroup3'
+naugroup.o:naugroup.c:(.text+0x17a0): first defined here
+naugroupW.o: In function `newpermrec':
+naugroup.c:(.text+0x660): multiple definition of `newpermrec'
+naugroup.o:naugroup.c:(.text+0x660): first defined here
+naugroupW.o: In function `freepermrec':
+naugroup.c:(.text+0x710): multiple definition of `freepermrec'
+naugroup.o:naugroup.c:(.text+0x710): first defined here
+naugroupW.o: In function `groupptr':
+naugroup.c:(.text+0x780): multiple definition of `groupptr'
+naugroup.o:naugroup.c:(.text+0x780): first defined here
+naugroupW.o: In function `freegroup':
+naugroup.c:(.text+0x7c0): multiple definition of `freegroup'
+naugroup.o:naugroup.c:(.text+0x7c0): first defined here
+naugroupW.o: In function `groupautomproc':
+naugroup.c:(.text+0x8a0): multiple definition of `groupautomproc'
+naugroup.o:naugroup.c:(.text+0x8a0): first defined here
+naugroupW.o: In function `grouplevelproc':
+naugroup.c:(.text+0x910): multiple definition of `grouplevelproc'
+naugroup.o:naugroup.c:(.text+0x910): first defined here
+naugroupW.o: In function `makecosetreps':
+naugroup.c:(.text+0xa50): multiple definition of `makecosetreps'
+naugroup.o:naugroup.c:(.text+0xa50): first defined here
+naugroupW.o: In function `permcycles':
+naugroup.c:(.text+0xe20): multiple definition of `permcycles'
+naugroup.o:naugroup.c:(.text+0xe20): first defined here
+naugroupW.o: In function `allgroup':
+naugroup.c:(.text+0x1050): multiple definition of `allgroup'
+naugroup.o:naugroup.c:(.text+0x1050): first defined here
+naugroupW.o: In function `allgroup2':
+naugroup.c:(.text+0x1450): multiple definition of `allgroup2'
+naugroup.o:naugroup.c:(.text+0x1450): first defined here
+naugroupW.o: In function `allgroup3':
+naugroup.c:(.text+0x17a0): multiple definition of `allgroup3'
+naugroup.o:naugroup.c:(.text+0x17a0): first defined here
+nausparseL.o: In function `nausparse_freedyn':
+nausparse.c:(.text+0x2120): multiple definition of `nausparse_freedyn'
+nausparse.o:nausparse.c:(.text+0x2120): first defined here
+nausparseL.o: In function `updatecan_sg':
+nausparse.c:(.text+0x2240): multiple definition of `updatecan_sg'
+nausparse.o:nausparse.c:(.text+0x2240): first defined here
+nausparseL.o: In function `init_sg':
+nausparse.c:(.text+0x2460): multiple definition of `init_sg'
+nausparse.o:nausparse.c:(.text+0x2460): first defined here
+nausparseL.o: In function `cheapautom_sg':
+nausparse.c:(.text+0x25a0): multiple definition of `cheapautom_sg'
+nausparse.o:nausparse.c:(.text+0x25a0): first defined here
+nausparseL.o: In function `targetcell_sg':
+nausparse.c:(.text+0x2630): multiple definition of `targetcell_sg'
+nausparse.o:nausparse.c:(.text+0x2630): first defined here
+nausparseL.o: In function `nausparse_check':
+nausparse.c:(.text+0x2c10): multiple definition of `nausparse_check'
+nausparse.o:nausparse.c:(.text+0x2c10): first defined here
+nausparseL.o: In function `isautom_sg':
+nausparse.c:(.text+0x2c80): multiple definition of `isautom_sg'
+nausparse.o:nausparse.c:(.text+0x2c80): first defined here
+nausparseL.o: In function `testcanlab_sg':
+nausparse.c:(.text+0x2f10): multiple definition of `testcanlab_sg'
+nausparse.o:nausparse.c:(.text+0x2f10): first defined here
+nausparseL.o: In function `aresame_sg':
+nausparse.c:(.text+0x3290): multiple definition of `aresame_sg'
+nausparse.o:nausparse.c:(.text+0x3290): first defined here
+nausparseL.o: In function `comparelab_tr':
+nausparse.c:(.text+0x34c0): multiple definition of `comparelab_tr'
+nausparse.o:nausparse.c:(.text+0x34c0): first defined here
+nausparseL.o: In function `testcanlab_tr':
+nausparse.c:(.text+0x37f0): multiple definition of `testcanlab_tr'
+nausparse.o:nausparse.c:(.text+0x37f0): first defined here
+nausparseL.o: In function `updatecan_tr':
+nausparse.c:(.text+0x3af0): multiple definition of `updatecan_tr'
+nausparse.o:nausparse.c:(.text+0x3af0): first defined here
+nausparseL.o: In function `distvals':
+nausparse.c:(.text+0x3d20): multiple definition of `distvals'
+nausparse.o:nausparse.c:(.text+0x3d20): first defined here
+nausparseL.o: In function `refine_sg':
+nausparse.c:(.text+0x3f30): multiple definition of `refine_sg'
+nausparse.o:nausparse.c:(.text+0x3f30): first defined here
+nausparseL.o: In function `sortlists_sg':
+nausparse.c:(.text+0x5800): multiple definition of `sortlists_sg'
+nausparse.o:nausparse.c:(.text+0x5800): first defined here
+nausparseL.o: In function `cleanup_sg':
+nausparse.c:(.text+0x58b0): multiple definition of `cleanup_sg'
+nausparse.o:nausparse.c:(.text+0x58b0): first defined here
+nausparseL.o: In function `put_sg':
+nausparse.c:(.text+0x58e0): multiple definition of `put_sg'
+nausparse.o:nausparse.c:(.text+0x58e0): first defined here
+nausparseL.o: In function `sg_to_nauty':
+nausparse.c:(.text+0x5c30): multiple definition of `sg_to_nauty'
+nausparse.o:nausparse.c:(.text+0x5c30): first defined here
+nausparseL.o: In function `copy_sg':
+nausparse.c:(.text+0x5df0): multiple definition of `copy_sg'
+nausparse.o:nausparse.c:(.text+0x5df0): first defined here
+nausparseL.o: In function `nauty_to_sg':
+nausparse.c:(.text+0x62d0): multiple definition of `nauty_to_sg'
+nausparse.o:nausparse.c:(.text+0x62d0): first defined here
+nausparseL.o: In function `distances_sg':
+nausparse.c:(.text+0x6590): multiple definition of `distances_sg'
+nausparse.o:nausparse.c:(.text+0x6590): first defined here
+nausparseL.o: In function `adjacencies_sg':
+nausparse.c:(.text+0x6a90): multiple definition of `adjacencies_sg'
+nausparse.o:nausparse.c:(.text+0x6a90): first defined here
+nausparseL.o: In function `sparsenauty':
+nausparse.c:(.text+0x6c40): multiple definition of `sparsenauty'
+nausparse.o:nausparse.c:(.text+0x6c40): first defined here
+nausparseL.o:(.data.rel+0x0): multiple definition of `dispatch_sparse'
+nausparse.o:(.data.rel+0x0): first defined here
+nausparseW.o: In function `nausparse_freedyn':
+nausparse.c:(.text+0x2120): multiple definition of `nausparse_freedyn'
+nausparse.o:nausparse.c:(.text+0x2120): first defined here
+nausparseW.o: In function `updatecan_sg':
+nausparse.c:(.text+0x2240): multiple definition of `updatecan_sg'
+nausparse.o:nausparse.c:(.text+0x2240): first defined here
+nausparseW.o: In function `init_sg':
+nausparse.c:(.text+0x2460): multiple definition of `init_sg'
+nausparse.o:nausparse.c:(.text+0x2460): first defined here
+nausparseW.o: In function `cheapautom_sg':
+nausparse.c:(.text+0x25a0): multiple definition of `cheapautom_sg'
+nausparse.o:nausparse.c:(.text+0x25a0): first defined here
+nausparseW.o: In function `targetcell_sg':
+nausparse.c:(.text+0x2630): multiple definition of `targetcell_sg'
+nausparse.o:nausparse.c:(.text+0x2630): first defined here
+nausparseW.o: In function `nausparse_check':
+nausparse.c:(.text+0x2c10): multiple definition of `nausparse_check'
+nausparse.o:nausparse.c:(.text+0x2c10): first defined here
+nausparseW.o: In function `isautom_sg':
+nausparse.c:(.text+0x2c80): multiple definition of `isautom_sg'
+nausparse.o:nausparse.c:(.text+0x2c80): first defined here
+nausparseW.o: In function `testcanlab_sg':
+nausparse.c:(.text+0x2f10): multiple definition of `testcanlab_sg'
+nausparse.o:nausparse.c:(.text+0x2f10): first defined here
+nausparseW.o: In function `aresame_sg':
+nausparse.c:(.text+0x3290): multiple definition of `aresame_sg'
+nausparse.o:nausparse.c:(.text+0x3290): first defined here
+nausparseW.o: In function `comparelab_tr':
+nausparse.c:(.text+0x34c0): multiple definition of `comparelab_tr'
+nausparse.o:nausparse.c:(.text+0x34c0): first defined here
+nausparseW.o: In function `testcanlab_tr':
+nausparse.c:(.text+0x37f0): multiple definition of `testcanlab_tr'
+nausparse.o:nausparse.c:(.text+0x37f0): first defined here
+nausparseW.o: In function `updatecan_tr':
+nausparse.c:(.text+0x3af0): multiple definition of `updatecan_tr'
+nausparse.o:nausparse.c:(.text+0x3af0): first defined here
+nausparseW.o: In function `distvals':
+nausparse.c:(.text+0x3d20): multiple definition of `distvals'
+nausparse.o:nausparse.c:(.text+0x3d20): first defined here
+nausparseW.o: In function `refine_sg':
+nausparse.c:(.text+0x3f30): multiple definition of `refine_sg'
+nausparse.o:nausparse.c:(.text+0x3f30): first defined here
+nausparseW.o: In function `sortlists_sg':
+nausparse.c:(.text+0x57e0): multiple definition of `sortlists_sg'
+nausparse.o:nausparse.c:(.text+0x5800): first defined here
+nausparseW.o: In function `cleanup_sg':
+nausparse.c:(.text+0x5890): multiple definition of `cleanup_sg'
+nausparse.o:nausparse.c:(.text+0x58b0): first defined here
+nausparseW.o: In function `put_sg':
+nausparse.c:(.text+0x58c0): multiple definition of `put_sg'
+nausparse.o:nausparse.c:(.text+0x58e0): first defined here
+nausparseW.o: In function `sg_to_nauty':
+nausparse.c:(.text+0x5c10): multiple definition of `sg_to_nauty'
+nausparse.o:nausparse.c:(.text+0x5c30): first defined here
+nausparseW.o: In function `copy_sg':
+nausparse.c:(.text+0x5dd0): multiple definition of `copy_sg'
+nausparse.o:nausparse.c:(.text+0x5df0): first defined here
+nausparseW.o: In function `nauty_to_sg':
+nausparse.c:(.text+0x62b0): multiple definition of `nauty_to_sg'
+nausparse.o:nausparse.c:(.text+0x62d0): first defined here
+nausparseW.o: In function `distances_sg':
+nausparse.c:(.text+0x6580): multiple definition of `distances_sg'
+nausparse.o:nausparse.c:(.text+0x6590): first defined here
+nausparseW.o: In function `adjacencies_sg':
+nausparse.c:(.text+0x6a80): multiple definition of `adjacencies_sg'
+nausparse.o:nausparse.c:(.text+0x6a90): first defined here
+nausparseW.o: In function `sparsenauty':
+nausparse.c:(.text+0x6c30): multiple definition of `sparsenauty'
+nausparse.o:nausparse.c:(.text+0x6c40): first defined here
+nausparseW.o:(.data.rel+0x0): multiple definition of `dispatch_sparse'
+nausparse.o:(.data.rel+0x0): first defined here
+nautil1.o: In function `nextelement':
+nautil.c:(.text+0xe10): multiple definition of `nextelement'
+nautil.o:nautil.c:(.text+0xe10): first defined here
+nautil1.o: In function `permset':
+nautil.c:(.text+0xe50): multiple definition of `permset'
+nautil.o:nautil.c:(.text+0xeb0): first defined here
+nautil1.o: In function `putstring':
+nautil.c:(.text+0xea0): multiple definition of `putstring'
+nautil.o:nautil.c:(.text+0xf80): first defined here
+nautil1.o: In function `itos':
+nautil.c:(.text+0xee0): multiple definition of `itos'
+nautil.o:nautil.c:(.text+0xfc0): first defined here
+nautil1.o: In function `orbjoin':
+nautil.c:(.text+0xf90): multiple definition of `orbjoin'
+nautil.o:nautil.c:(.text+0x1070): first defined here
+nautil1.o: In function `writeperm':
+nautil.c:(.text+0x1030): multiple definition of `writeperm'
+nautil.o:nautil.c:(.text+0x1810): first defined here
+nautil1.o:(.bss+0x4): multiple definition of `labelorg'
+nautil.o:(.bss+0x4): first defined here
+nautil1.o: In function `fmperm':
+nautil.c:(.text+0x13a0): multiple definition of `fmperm'
+nautil.o:nautil.c:(.text+0x1c20): first defined here
+nautil1.o: In function `fmptn':
+nautil.c:(.text+0x1480): multiple definition of `fmptn'
+nautil.o:nautil.c:(.text+0x1110): first defined here
+nautil1.o: In function `doref':
+nautil.c:(.text+0x1520): multiple definition of `doref'
+nautil.o:nautil.c:(.text+0x1dd0): first defined here
+nautil1.o: In function `maketargetcell':
+nautil.c:(.text+0x18f0): multiple definition of `maketargetcell'
+nautil.o:nautil.c:(.text+0x1240): first defined here
+nautil1.o: In function `shortprune':
+nautil.c:(.text+0x19d0): multiple definition of `shortprune'
+nautil.o:nautil.c:(.text+0x1390): first defined here
+nautil1.o: In function `breakout':
+nautil.c:(.text+0x19e0): multiple definition of `breakout'
+nautil.o:nautil.c:(.text+0x1480): first defined here
+nautil1.o: In function `longprune':
+nautil.c:(.text+0x1a20): multiple definition of `longprune'
+nautil.o:nautil.c:(.text+0x1520): first defined here
+nautil1.o: In function `writegroupsize':
+nautil.c:(.text+0x1a50): multiple definition of `writegroupsize'
+nautil.o:nautil.c:(.text+0x1710): first defined here
+nautil1.o: In function `nautil_check':
+nautil.c:(.text+0x1ab0): multiple definition of `nautil_check'
+nautil.o:nautil.c:(.text+0x1770): first defined here
+nautil1.o: In function `alloc_error':
+nautil.c:(.text+0x1b80): multiple definition of `alloc_error'
+nautil.o:nautil.c:(.text+0x17e0): first defined here
+nautil1.o: In function `nautil_freedyn':
+nautil.c:(.text+0x1bb0): multiple definition of `nautil_freedyn'
+nautil.o:nautil.c:(.text+0x2200): first defined here
+nautil1.o:(.bss+0x0): multiple definition of `nauty_kill_request'
+nautil.o:(.bss+0x0): first defined here
+nautilL.o: In function `nextelement':
+nautil.c:(.text+0xe10): multiple definition of `nextelement'
+nautil.o:nautil.c:(.text+0xe10): first defined here
+nautilL.o: In function `permset':
+nautil.c:(.text+0xeb0): multiple definition of `permset'
+nautil.o:nautil.c:(.text+0xeb0): first defined here
+nautilL.o: In function `putstring':
+nautil.c:(.text+0xf80): multiple definition of `putstring'
+nautil.o:nautil.c:(.text+0xf80): first defined here
+nautilL.o: In function `itos':
+nautil.c:(.text+0xfc0): multiple definition of `itos'
+nautil.o:nautil.c:(.text+0xfc0): first defined here
+nautilL.o: In function `orbjoin':
+nautil.c:(.text+0x1070): multiple definition of `orbjoin'
+nautil.o:nautil.c:(.text+0x1070): first defined here
+nautilL.o: In function `fmptn':
+nautil.c:(.text+0x1110): multiple definition of `fmptn'
+nautil.o:nautil.c:(.text+0x1110): first defined here
+nautilL.o: In function `maketargetcell':
+nautil.c:(.text+0x1240): multiple definition of `maketargetcell'
+nautil.o:nautil.c:(.text+0x1240): first defined here
+nautilL.o: In function `shortprune':
+nautil.c:(.text+0x1390): multiple definition of `shortprune'
+nautil.o:nautil.c:(.text+0x1390): first defined here
+nautilL.o: In function `breakout':
+nautil.c:(.text+0x1480): multiple definition of `breakout'
+nautil.o:nautil.c:(.text+0x1480): first defined here
+nautilL.o: In function `longprune':
+nautil.c:(.text+0x1520): multiple definition of `longprune'
+nautil.o:nautil.c:(.text+0x1520): first defined here
+nautilL.o: In function `writegroupsize':
+nautil.c:(.text+0x1710): multiple definition of `writegroupsize'
+nautil.o:nautil.c:(.text+0x1710): first defined here
+nautilL.o: In function `nautil_check':
+nautil.c:(.text+0x1770): multiple definition of `nautil_check'
+nautil.o:nautil.c:(.text+0x1770): first defined here
+nautilL.o: In function `alloc_error':
+nautil.c:(.text+0x17e0): multiple definition of `alloc_error'
+nautil.o:nautil.c:(.text+0x17e0): first defined here
+nautilL.o: In function `writeperm':
+nautil.c:(.text+0x1810): multiple definition of `writeperm'
+nautil.o:nautil.c:(.text+0x1810): first defined here
+nautilL.o:(.bss+0x4): multiple definition of `labelorg'
+nautil.o:(.bss+0x4): first defined here
+nautilL.o: In function `fmperm':
+nautil.c:(.text+0x1c20): multiple definition of `fmperm'
+nautil.o:nautil.c:(.text+0x1c20): first defined here
+nautilL.o: In function `doref':
+nautil.c:(.text+0x1dd0): multiple definition of `doref'
+nautil.o:nautil.c:(.text+0x1dd0): first defined here
+nautilL.o: In function `nautil_freedyn':
+nautil.c:(.text+0x2200): multiple definition of `nautil_freedyn'
+nautil.o:nautil.c:(.text+0x2200): first defined here
+nautilL.o:(.bss+0x0): multiple definition of `nauty_kill_request'
+nautil.o:(.bss+0x0): first defined here
+nautilL1.o: In function `nextelement':
+nautil.c:(.text+0xe10): multiple definition of `nextelement'
+nautil.o:nautil.c:(.text+0xe10): first defined here
+nautilL1.o: In function `permset':
+nautil.c:(.text+0xe50): multiple definition of `permset'
+nautil.o:nautil.c:(.text+0xeb0): first defined here
+nautilL1.o: In function `putstring':
+nautil.c:(.text+0xea0): multiple definition of `putstring'
+nautil.o:nautil.c:(.text+0xf80): first defined here
+nautilL1.o: In function `itos':
+nautil.c:(.text+0xee0): multiple definition of `itos'
+nautil.o:nautil.c:(.text+0xfc0): first defined here
+nautilL1.o: In function `orbjoin':
+nautil.c:(.text+0xf90): multiple definition of `orbjoin'
+nautil.o:nautil.c:(.text+0x1070): first defined here
+nautilL1.o: In function `writeperm':
+nautil.c:(.text+0x1030): multiple definition of `writeperm'
+nautil.o:nautil.c:(.text+0x1810): first defined here
+nautilL1.o:(.bss+0x4): multiple definition of `labelorg'
+nautil.o:(.bss+0x4): first defined here
+nautilL1.o: In function `fmperm':
+nautil.c:(.text+0x13a0): multiple definition of `fmperm'
+nautil.o:nautil.c:(.text+0x1c20): first defined here
+nautilL1.o: In function `fmptn':
+nautil.c:(.text+0x1480): multiple definition of `fmptn'
+nautil.o:nautil.c:(.text+0x1110): first defined here
+nautilL1.o: In function `doref':
+nautil.c:(.text+0x1520): multiple definition of `doref'
+nautil.o:nautil.c:(.text+0x1dd0): first defined here
+nautilL1.o: In function `maketargetcell':
+nautil.c:(.text+0x18f0): multiple definition of `maketargetcell'
+nautil.o:nautil.c:(.text+0x1240): first defined here
+nautilL1.o: In function `shortprune':
+nautil.c:(.text+0x19d0): multiple definition of `shortprune'
+nautil.o:nautil.c:(.text+0x1390): first defined here
+nautilL1.o: In function `breakout':
+nautil.c:(.text+0x19e0): multiple definition of `breakout'
+nautil.o:nautil.c:(.text+0x1480): first defined here
+nautilL1.o: In function `longprune':
+nautil.c:(.text+0x1a20): multiple definition of `longprune'
+nautil.o:nautil.c:(.text+0x1520): first defined here
+nautilL1.o: In function `writegroupsize':
+nautil.c:(.text+0x1a50): multiple definition of `writegroupsize'
+nautil.o:nautil.c:(.text+0x1710): first defined here
+nautilL1.o: In function `nautil_check':
+nautil.c:(.text+0x1ab0): multiple definition of `nautil_check'
+nautil.o:nautil.c:(.text+0x1770): first defined here
+nautilL1.o: In function `alloc_error':
+nautil.c:(.text+0x1b80): multiple definition of `alloc_error'
+nautil.o:nautil.c:(.text+0x17e0): first defined here
+nautilL1.o: In function `nautil_freedyn':
+nautil.c:(.text+0x1bb0): multiple definition of `nautil_freedyn'
+nautil.o:nautil.c:(.text+0x2200): first defined here
+nautilL1.o:(.bss+0x0): multiple definition of `nauty_kill_request'
+nautil.o:(.bss+0x0): first defined here
+nautilW.o: In function `nextelement':
+nautil.c:(.text+0xe10): multiple definition of `nextelement'
+nautil.o:nautil.c:(.text+0xe10): first defined here
+nautilW.o: In function `permset':
+nautil.c:(.text+0xe90): multiple definition of `permset'
+nautil.o:nautil.c:(.text+0xeb0): first defined here
+nautilW.o: In function `putstring':
+nautil.c:(.text+0xf50): multiple definition of `putstring'
+nautil.o:nautil.c:(.text+0xf80): first defined here
+nautilW.o: In function `itos':
+nautil.c:(.text+0xf90): multiple definition of `itos'
+nautil.o:nautil.c:(.text+0xfc0): first defined here
+nautilW.o: In function `orbjoin':
+nautil.c:(.text+0x1040): multiple definition of `orbjoin'
+nautil.o:nautil.c:(.text+0x1070): first defined here
+nautilW.o: In function `fmptn':
+nautil.c:(.text+0x10e0): multiple definition of `fmptn'
+nautil.o:nautil.c:(.text+0x1110): first defined here
+nautilW.o: In function `maketargetcell':
+nautil.c:(.text+0x1210): multiple definition of `maketargetcell'
+nautil.o:nautil.c:(.text+0x1240): first defined here
+nautilW.o: In function `shortprune':
+nautil.c:(.text+0x1360): multiple definition of `shortprune'
+nautil.o:nautil.c:(.text+0x1390): first defined here
+nautilW.o: In function `breakout':
+nautil.c:(.text+0x14b0): multiple definition of `breakout'
+nautil.o:nautil.c:(.text+0x1480): first defined here
+nautilW.o: In function `longprune':
+nautil.c:(.text+0x1550): multiple definition of `longprune'
+nautil.o:nautil.c:(.text+0x1520): first defined here
+nautilW.o: In function `writegroupsize':
+nautil.c:(.text+0x17e0): multiple definition of `writegroupsize'
+nautil.o:nautil.c:(.text+0x1710): first defined here
+nautilW.o: In function `nautil_check':
+nautil.c:(.text+0x1840): multiple definition of `nautil_check'
+nautil.o:nautil.c:(.text+0x1770): first defined here
+nautilW.o: In function `alloc_error':
+nautil.c:(.text+0x18b0): multiple definition of `alloc_error'
+nautil.o:nautil.c:(.text+0x17e0): first defined here
+nautilW.o: In function `writeperm':
+nautil.c:(.text+0x18e0): multiple definition of `writeperm'
+nautil.o:nautil.c:(.text+0x1810): first defined here
+nautilW.o:(.bss+0x4): multiple definition of `labelorg'
+nautil.o:(.bss+0x4): first defined here
+nautilW.o: In function `fmperm':
+nautil.c:(.text+0x1cf0): multiple definition of `fmperm'
+nautil.o:nautil.c:(.text+0x1c20): first defined here
+nautilW.o: In function `doref':
+nautil.c:(.text+0x1ea0): multiple definition of `doref'
+nautil.o:nautil.c:(.text+0x1dd0): first defined here
+nautilW.o: In function `nautil_freedyn':
+nautil.c:(.text+0x22d0): multiple definition of `nautil_freedyn'
+nautil.o:nautil.c:(.text+0x2200): first defined here
+nautilW.o:(.bss+0x0): multiple definition of `nauty_kill_request'
+nautil.o:(.bss+0x0): first defined here
+nautilW1.o: In function `nextelement':
+nautil.c:(.text+0xe10): multiple definition of `nextelement'
+nautil.o:nautil.c:(.text+0xe10): first defined here
+nautilW1.o: In function `permset':
+nautil.c:(.text+0xe40): multiple definition of `permset'
+nautil.o:nautil.c:(.text+0xeb0): first defined here
+nautilW1.o: In function `putstring':
+nautil.c:(.text+0xe90): multiple definition of `putstring'
+nautil.o:nautil.c:(.text+0xf80): first defined here
+nautilW1.o: In function `itos':
+nautil.c:(.text+0xed0): multiple definition of `itos'
+nautil.o:nautil.c:(.text+0xfc0): first defined here
+nautilW1.o: In function `orbjoin':
+nautil.c:(.text+0xf80): multiple definition of `orbjoin'
+nautil.o:nautil.c:(.text+0x1070): first defined here
+nautilW1.o: In function `writeperm':
+nautil.c:(.text+0x1020): multiple definition of `writeperm'
+nautil.o:nautil.c:(.text+0x1810): first defined here
+nautilW1.o:(.bss+0x4): multiple definition of `labelorg'
+nautil.o:(.bss+0x4): first defined here
+nautilW1.o: In function `fmperm':
+nautil.c:(.text+0x1390): multiple definition of `fmperm'
+nautil.o:nautil.c:(.text+0x1c20): first defined here
+nautilW1.o: In function `fmptn':
+nautil.c:(.text+0x1470): multiple definition of `fmptn'
+nautil.o:nautil.c:(.text+0x1110): first defined here
+nautilW1.o: In function `doref':
+nautil.c:(.text+0x1520): multiple definition of `doref'
+nautil.o:nautil.c:(.text+0x1dd0): first defined here
+nautilW1.o: In function `maketargetcell':
+nautil.c:(.text+0x18e0): multiple definition of `maketargetcell'
+nautil.o:nautil.c:(.text+0x1240): first defined here
+nautilW1.o: In function `shortprune':
+nautil.c:(.text+0x19c0): multiple definition of `shortprune'
+nautil.o:nautil.c:(.text+0x1390): first defined here
+nautilW1.o: In function `breakout':
+nautil.c:(.text+0x19d0): multiple definition of `breakout'
+nautil.o:nautil.c:(.text+0x1480): first defined here
+nautilW1.o: In function `longprune':
+nautil.c:(.text+0x1a10): multiple definition of `longprune'
+nautil.o:nautil.c:(.text+0x1520): first defined here
+nautilW1.o: In function `writegroupsize':
+nautil.c:(.text+0x1a40): multiple definition of `writegroupsize'
+nautil.o:nautil.c:(.text+0x1710): first defined here
+nautilW1.o: In function `nautil_check':
+nautil.c:(.text+0x1aa0): multiple definition of `nautil_check'
+nautil.o:nautil.c:(.text+0x1770): first defined here
+nautilW1.o: In function `alloc_error':
+nautil.c:(.text+0x1b70): multiple definition of `alloc_error'
+nautil.o:nautil.c:(.text+0x17e0): first defined here
+nautilW1.o: In function `nautil_freedyn':
+nautil.c:(.text+0x1ba0): multiple definition of `nautil_freedyn'
+nautil.o:nautil.c:(.text+0x2200): first defined here
+nautilW1.o:(.bss+0x0): multiple definition of `nauty_kill_request'
+nautil.o:(.bss+0x0): first defined here
+nautinv1.o: In function `twopaths':
+nautinv.c:(.text+0x0): multiple definition of `twopaths'
+nautinv.o:nautinv.c:(.text+0x0): first defined here
+nautinv1.o: In function `quadruples':
+nautinv.c:(.text+0x110): multiple definition of `quadruples'
+nautinv.o:nautinv.c:(.text+0x3e0): first defined here
+nautinv1.o: In function `triples':
+nautinv.c:(.text+0x410): multiple definition of `triples'
+nautinv.o:nautinv.c:(.text+0x1020): first defined here
+nautinv1.o: In function `adjtriang':
+nautinv.c:(.text+0x680): multiple definition of `adjtriang'
+nautinv.o:nautinv.c:(.text+0x17c0): first defined here
+nautinv1.o: In function `getbigcells':
+nautinv.c:(.text+0x890): multiple definition of `getbigcells'
+nautinv.o:nautinv.c:(.text+0x1e50): first defined here
+nautinv1.o: In function `celltrips':
+nautinv.c:(.text+0xa40): multiple definition of `celltrips'
+nautinv.o:nautinv.c:(.text+0x2000): first defined here
+nautinv1.o: In function `cellquads':
+nautinv.c:(.text+0xd70): multiple definition of `cellquads'
+nautinv.o:nautinv.c:(.text+0x2880): first defined here
+nautinv1.o: In function `cellquins':
+nautinv.c:(.text+0x1140): multiple definition of `cellquins'
+nautinv.o:nautinv.c:(.text+0x3510): first defined here
+nautinv1.o: In function `cellfano2':
+nautinv.c:(.text+0x15e0): multiple definition of `cellfano2'
+nautinv.o:nautinv.c:(.text+0x45d0): first defined here
+nautinv1.o: In function `setnbhd':
+nautinv.c:(.text+0x1c10): multiple definition of `setnbhd'
+nautinv.o:nautinv.c:(.text+0x5340): first defined here
+nautinv1.o: In function `cellfano':
+nautinv.c:(.text+0x1c80): multiple definition of `cellfano'
+nautinv.o:nautinv.c:(.text+0x5760): first defined here
+nautinv1.o: In function `distances':
+nautinv.c:(.text+0x2310): multiple definition of `distances'
+nautinv.o:nautinv.c:(.text+0x7520): first defined here
+nautinv1.o: In function `indsets':
+nautinv.c:(.text+0x2620): multiple definition of `indsets'
+nautinv.o:nautinv.c:(.text+0x7e50): first defined here
+nautinv1.o: In function `cliques':
+nautinv.c:(.text+0x2b10): multiple definition of `cliques'
+nautinv.o:nautinv.c:(.text+0x87e0): first defined here
+nautinv1.o: In function `cellcliq':
+nautinv.c:(.text+0x2ed0): multiple definition of `cellcliq'
+nautinv.o:nautinv.c:(.text+0x8fc0): first defined here
+nautinv1.o: In function `cellind':
+nautinv.c:(.text+0x3300): multiple definition of `cellind'
+nautinv.o:nautinv.c:(.text+0x98e0): first defined here
+nautinv1.o: In function `adjacencies':
+nautinv.c:(.text+0x3740): multiple definition of `adjacencies'
+nautinv.o:nautinv.c:(.text+0xa200): first defined here
+nautinv1.o: In function `nautinv_check':
+nautinv.c:(.text+0x3860): multiple definition of `nautinv_check'
+nautinv.o:nautinv.c:(.text+0xa3c0): first defined here
+nautinv1.o: In function `nautinv_freedyn':
+nautinv.c:(.text+0x3930): multiple definition of `nautinv_freedyn'
+nautinv.o:nautinv.c:(.text+0xa430): first defined here
+nautinv1.o: In function `refinvar':
+nautinv.c:(.text+0x3940): multiple definition of `refinvar'
+nautinv.o:nautinv.c:(.text+0xa6b0): first defined here
+nautinvL.o: In function `twopaths':
+nautinv.c:(.text+0x0): multiple definition of `twopaths'
+nautinv.o:nautinv.c:(.text+0x0): first defined here
+nautinvL.o: In function `quadruples':
+nautinv.c:(.text+0x3e0): multiple definition of `quadruples'
+nautinv.o:nautinv.c:(.text+0x3e0): first defined here
+nautinvL.o: In function `triples':
+nautinv.c:(.text+0x1020): multiple definition of `triples'
+nautinv.o:nautinv.c:(.text+0x1020): first defined here
+nautinvL.o: In function `adjtriang':
+nautinv.c:(.text+0x17c0): multiple definition of `adjtriang'
+nautinv.o:nautinv.c:(.text+0x17c0): first defined here
+nautinvL.o: In function `getbigcells':
+nautinv.c:(.text+0x1e50): multiple definition of `getbigcells'
+nautinv.o:nautinv.c:(.text+0x1e50): first defined here
+nautinvL.o: In function `celltrips':
+nautinv.c:(.text+0x2000): multiple definition of `celltrips'
+nautinv.o:nautinv.c:(.text+0x2000): first defined here
+nautinvL.o: In function `cellquads':
+nautinv.c:(.text+0x2880): multiple definition of `cellquads'
+nautinv.o:nautinv.c:(.text+0x2880): first defined here
+nautinvL.o: In function `cellquins':
+nautinv.c:(.text+0x3510): multiple definition of `cellquins'
+nautinv.o:nautinv.c:(.text+0x3510): first defined here
+nautinvL.o: In function `cellfano2':
+nautinv.c:(.text+0x45d0): multiple definition of `cellfano2'
+nautinv.o:nautinv.c:(.text+0x45d0): first defined here
+nautinvL.o: In function `setnbhd':
+nautinv.c:(.text+0x5340): multiple definition of `setnbhd'
+nautinv.o:nautinv.c:(.text+0x5340): first defined here
+nautinvL.o: In function `cellfano':
+nautinv.c:(.text+0x5760): multiple definition of `cellfano'
+nautinv.o:nautinv.c:(.text+0x5760): first defined here
+nautinvL.o: In function `distances':
+nautinv.c:(.text+0x7520): multiple definition of `distances'
+nautinv.o:nautinv.c:(.text+0x7520): first defined here
+nautinvL.o: In function `indsets':
+nautinv.c:(.text+0x7e50): multiple definition of `indsets'
+nautinv.o:nautinv.c:(.text+0x7e50): first defined here
+nautinvL.o: In function `cliques':
+nautinv.c:(.text+0x87e0): multiple definition of `cliques'
+nautinv.o:nautinv.c:(.text+0x87e0): first defined here
+nautinvL.o: In function `cellcliq':
+nautinv.c:(.text+0x8fc0): multiple definition of `cellcliq'
+nautinv.o:nautinv.c:(.text+0x8fc0): first defined here
+nautinvL.o: In function `cellind':
+nautinv.c:(.text+0x98e0): multiple definition of `cellind'
+nautinv.o:nautinv.c:(.text+0x98e0): first defined here
+nautinvL.o: In function `adjacencies':
+nautinv.c:(.text+0xa200): multiple definition of `adjacencies'
+nautinv.o:nautinv.c:(.text+0xa200): first defined here
+nautinvL.o: In function `nautinv_check':
+nautinv.c:(.text+0xa3c0): multiple definition of `nautinv_check'
+nautinv.o:nautinv.c:(.text+0xa3c0): first defined here
+nautinvL.o: In function `nautinv_freedyn':
+nautinv.c:(.text+0xa430): multiple definition of `nautinv_freedyn'
+nautinv.o:nautinv.c:(.text+0xa430): first defined here
+nautinvL.o: In function `refinvar':
+nautinv.c:(.text+0xa6b0): multiple definition of `refinvar'
+nautinv.o:nautinv.c:(.text+0xa6b0): first defined here
+nautinvL1.o: In function `twopaths':
+nautinv.c:(.text+0x0): multiple definition of `twopaths'
+nautinv.o:nautinv.c:(.text+0x0): first defined here
+nautinvL1.o: In function `quadruples':
+nautinv.c:(.text+0x110): multiple definition of `quadruples'
+nautinv.o:nautinv.c:(.text+0x3e0): first defined here
+nautinvL1.o: In function `triples':
+nautinv.c:(.text+0x410): multiple definition of `triples'
+nautinv.o:nautinv.c:(.text+0x1020): first defined here
+nautinvL1.o: In function `adjtriang':
+nautinv.c:(.text+0x680): multiple definition of `adjtriang'
+nautinv.o:nautinv.c:(.text+0x17c0): first defined here
+nautinvL1.o: In function `getbigcells':
+nautinv.c:(.text+0x890): multiple definition of `getbigcells'
+nautinv.o:nautinv.c:(.text+0x1e50): first defined here
+nautinvL1.o: In function `celltrips':
+nautinv.c:(.text+0xa40): multiple definition of `celltrips'
+nautinv.o:nautinv.c:(.text+0x2000): first defined here
+nautinvL1.o: In function `cellquads':
+nautinv.c:(.text+0xd70): multiple definition of `cellquads'
+nautinv.o:nautinv.c:(.text+0x2880): first defined here
+nautinvL1.o: In function `cellquins':
+nautinv.c:(.text+0x1140): multiple definition of `cellquins'
+nautinv.o:nautinv.c:(.text+0x3510): first defined here
+nautinvL1.o: In function `cellfano2':
+nautinv.c:(.text+0x15e0): multiple definition of `cellfano2'
+nautinv.o:nautinv.c:(.text+0x45d0): first defined here
+nautinvL1.o: In function `setnbhd':
+nautinv.c:(.text+0x1c10): multiple definition of `setnbhd'
+nautinv.o:nautinv.c:(.text+0x5340): first defined here
+nautinvL1.o: In function `cellfano':
+nautinv.c:(.text+0x1c80): multiple definition of `cellfano'
+nautinv.o:nautinv.c:(.text+0x5760): first defined here
+nautinvL1.o: In function `distances':
+nautinv.c:(.text+0x2310): multiple definition of `distances'
+nautinv.o:nautinv.c:(.text+0x7520): first defined here
+nautinvL1.o: In function `indsets':
+nautinv.c:(.text+0x2620): multiple definition of `indsets'
+nautinv.o:nautinv.c:(.text+0x7e50): first defined here
+nautinvL1.o: In function `cliques':
+nautinv.c:(.text+0x2b10): multiple definition of `cliques'
+nautinv.o:nautinv.c:(.text+0x87e0): first defined here
+nautinvL1.o: In function `cellcliq':
+nautinv.c:(.text+0x2ed0): multiple definition of `cellcliq'
+nautinv.o:nautinv.c:(.text+0x8fc0): first defined here
+nautinvL1.o: In function `cellind':
+nautinv.c:(.text+0x3300): multiple definition of `cellind'
+nautinv.o:nautinv.c:(.text+0x98e0): first defined here
+nautinvL1.o: In function `adjacencies':
+nautinv.c:(.text+0x3740): multiple definition of `adjacencies'
+nautinv.o:nautinv.c:(.text+0xa200): first defined here
+nautinvL1.o: In function `nautinv_check':
+nautinv.c:(.text+0x3860): multiple definition of `nautinv_check'
+nautinv.o:nautinv.c:(.text+0xa3c0): first defined here
+nautinvL1.o: In function `nautinv_freedyn':
+nautinv.c:(.text+0x3930): multiple definition of `nautinv_freedyn'
+nautinv.o:nautinv.c:(.text+0xa430): first defined here
+nautinvL1.o: In function `refinvar':
+nautinv.c:(.text+0x3940): multiple definition of `refinvar'
+nautinv.o:nautinv.c:(.text+0xa6b0): first defined here
+nautinvW.o: In function `twopaths':
+nautinv.c:(.text+0x0): multiple definition of `twopaths'
+nautinv.o:nautinv.c:(.text+0x0): first defined here
+nautinvW.o: In function `quadruples':
+nautinv.c:(.text+0x4c0): multiple definition of `quadruples'
+nautinv.o:nautinv.c:(.text+0x3e0): first defined here
+nautinvW.o: In function `triples':
+nautinv.c:(.text+0x11e0): multiple definition of `triples'
+nautinv.o:nautinv.c:(.text+0x1020): first defined here
+nautinvW.o: In function `adjtriang':
+nautinv.c:(.text+0x1a60): multiple definition of `adjtriang'
+nautinv.o:nautinv.c:(.text+0x17c0): first defined here
+nautinvW.o: In function `getbigcells':
+nautinv.c:(.text+0x2170): multiple definition of `getbigcells'
+nautinv.o:nautinv.c:(.text+0x1e50): first defined here
+nautinvW.o: In function `celltrips':
+nautinv.c:(.text+0x2320): multiple definition of `celltrips'
+nautinv.o:nautinv.c:(.text+0x2000): first defined here
+nautinvW.o: In function `cellquads':
+nautinv.c:(.text+0x2bf0): multiple definition of `cellquads'
+nautinv.o:nautinv.c:(.text+0x2880): first defined here
+nautinvW.o: In function `cellquins':
+nautinv.c:(.text+0x3930): multiple definition of `cellquins'
+nautinv.o:nautinv.c:(.text+0x3510): first defined here
+nautinvW.o: In function `cellfano2':
+nautinv.c:(.text+0x4ac0): multiple definition of `cellfano2'
+nautinv.o:nautinv.c:(.text+0x45d0): first defined here
+nautinvW.o: In function `setnbhd':
+nautinv.c:(.text+0x57c0): multiple definition of `setnbhd'
+nautinv.o:nautinv.c:(.text+0x5340): first defined here
+nautinvW.o: In function `cellfano':
+nautinv.c:(.text+0x5cf0): multiple definition of `cellfano'
+nautinv.o:nautinv.c:(.text+0x5760): first defined here
+nautinvW.o: In function `distances':
+nautinv.c:(.text+0x7e50): multiple definition of `distances'
+nautinv.o:nautinv.c:(.text+0x7520): first defined here
+nautinvW.o: In function `indsets':
+nautinv.c:(.text+0x88b0): multiple definition of `indsets'
+nautinv.o:nautinv.c:(.text+0x7e50): first defined here
+nautinvW.o: In function `cliques':
+nautinv.c:(.text+0x93c0): multiple definition of `cliques'
+nautinv.o:nautinv.c:(.text+0x87e0): first defined here
+nautinvW.o: In function `cellcliq':
+nautinv.c:(.text+0x9d60): multiple definition of `cellcliq'
+nautinv.o:nautinv.c:(.text+0x8fc0): first defined here
+nautinvW.o: In function `cellind':
+nautinv.c:(.text+0xa760): multiple definition of `cellind'
+nautinv.o:nautinv.c:(.text+0x98e0): first defined here
+nautinvW.o: In function `adjacencies':
+nautinv.c:(.text+0xb1a0): multiple definition of `adjacencies'
+nautinv.o:nautinv.c:(.text+0xa200): first defined here
+nautinvW.o: In function `nautinv_check':
+nautinv.c:(.text+0xb360): multiple definition of `nautinv_check'
+nautinv.o:nautinv.c:(.text+0xa3c0): first defined here
+nautinvW.o: In function `nautinv_freedyn':
+nautinv.c:(.text+0xb3d0): multiple definition of `nautinv_freedyn'
+nautinv.o:nautinv.c:(.text+0xa430): first defined here
+nautinvW.o: In function `refinvar':
+nautinv.c:(.text+0xb650): multiple definition of `refinvar'
+nautinv.o:nautinv.c:(.text+0xa6b0): first defined here
+nautinvW1.o: In function `twopaths':
+nautinv.c:(.text+0x0): multiple definition of `twopaths'
+nautinv.o:nautinv.c:(.text+0x0): first defined here
+nautinvW1.o: In function `quadruples':
+nautinv.c:(.text+0x110): multiple definition of `quadruples'
+nautinv.o:nautinv.c:(.text+0x3e0): first defined here
+nautinvW1.o: In function `triples':
+nautinv.c:(.text+0x400): multiple definition of `triples'
+nautinv.o:nautinv.c:(.text+0x1020): first defined here
+nautinvW1.o: In function `adjtriang':
+nautinv.c:(.text+0x660): multiple definition of `adjtriang'
+nautinv.o:nautinv.c:(.text+0x17c0): first defined here
+nautinvW1.o: In function `getbigcells':
+nautinv.c:(.text+0x860): multiple definition of `getbigcells'
+nautinv.o:nautinv.c:(.text+0x1e50): first defined here
+nautinvW1.o: In function `celltrips':
+nautinv.c:(.text+0xa10): multiple definition of `celltrips'
+nautinv.o:nautinv.c:(.text+0x2000): first defined here
+nautinvW1.o: In function `cellquads':
+nautinv.c:(.text+0xd40): multiple definition of `cellquads'
+nautinv.o:nautinv.c:(.text+0x2880): first defined here
+nautinvW1.o: In function `cellquins':
+nautinv.c:(.text+0x1120): multiple definition of `cellquins'
+nautinv.o:nautinv.c:(.text+0x3510): first defined here
+nautinvW1.o: In function `cellfano2':
+nautinv.c:(.text+0x15d0): multiple definition of `cellfano2'
+nautinv.o:nautinv.c:(.text+0x45d0): first defined here
+nautinvW1.o: In function `setnbhd':
+nautinv.c:(.text+0x1bd0): multiple definition of `setnbhd'
+nautinv.o:nautinv.c:(.text+0x5340): first defined here
+nautinvW1.o: In function `cellfano':
+nautinv.c:(.text+0x1c40): multiple definition of `cellfano'
+nautinv.o:nautinv.c:(.text+0x5760): first defined here
+nautinvW1.o: In function `distances':
+nautinv.c:(.text+0x2280): multiple definition of `distances'
+nautinv.o:nautinv.c:(.text+0x7520): first defined here
+nautinvW1.o: In function `indsets':
+nautinv.c:(.text+0x2590): multiple definition of `indsets'
+nautinv.o:nautinv.c:(.text+0x7e50): first defined here
+nautinvW1.o: In function `cliques':
+nautinv.c:(.text+0x2ae0): multiple definition of `cliques'
+nautinv.o:nautinv.c:(.text+0x87e0): first defined here
+nautinvW1.o: In function `cellcliq':
+nautinv.c:(.text+0x2e90): multiple definition of `cellcliq'
+nautinv.o:nautinv.c:(.text+0x8fc0): first defined here
+nautinvW1.o: In function `cellind':
+nautinv.c:(.text+0x32c0): multiple definition of `cellind'
+nautinv.o:nautinv.c:(.text+0x98e0): first defined here
+nautinvW1.o: In function `adjacencies':
+nautinv.c:(.text+0x36f0): multiple definition of `adjacencies'
+nautinv.o:nautinv.c:(.text+0xa200): first defined here
+nautinvW1.o: In function `nautinv_check':
+nautinv.c:(.text+0x3800): multiple definition of `nautinv_check'
+nautinv.o:nautinv.c:(.text+0xa3c0): first defined here
+nautinvW1.o: In function `nautinv_freedyn':
+nautinv.c:(.text+0x38d0): multiple definition of `nautinv_freedyn'
+nautinv.o:nautinv.c:(.text+0xa430): first defined here
+nautinvW1.o: In function `refinvar':
+nautinv.c:(.text+0x38e0): multiple definition of `refinvar'
+nautinv.o:nautinv.c:(.text+0xa6b0): first defined here
+naututil1.o: In function `setinter':
+naututil.c:(.text+0xce0): multiple definition of `setinter'
+naututil.o:naututil.c:(.text+0xcd0): first defined here
+naututil1.o: In function `setsize':
+naututil.c:(.text+0xd00): multiple definition of `setsize'
+naututil.o:naututil.c:(.text+0xd20): first defined here
+naututil1.o: In function `flushline':
+naututil.c:(.text+0xd10): multiple definition of `flushline'
+naututil.o:naututil.c:(.text+0xd50): first defined here
+naututil1.o: In function `readinteger':
+naututil.c:(.text+0xe10): multiple definition of `readinteger'
+naututil.o:naututil.c:(.text+0xe50): first defined here
+naututil1.o: In function `readinteger_sl':
+naututil.c:(.text+0xee0): multiple definition of `readinteger_sl'
+naututil.o:naututil.c:(.text+0xf20): first defined here
+naututil1.o: In function `readstring':
+naututil.c:(.text+0xfb0): multiple definition of `readstring'
+naututil.o:naututil.c:(.text+0xff0): first defined here
+naututil1.o: In function `getint':
+naututil.c:(.text+0x1130): multiple definition of `getint'
+naututil.o:naututil.c:(.text+0x1170): first defined here
+naututil1.o: In function `getint_sl':
+naututil.c:(.text+0x11c0): multiple definition of `getint_sl'
+naututil.o:naututil.c:(.text+0x1200): first defined here
+naututil1.o: In function `putset':
+naututil.c:(.text+0x1240): multiple definition of `putset'
+naututil.o:naututil.c:(.text+0x1280): first defined here
+naututil1.o: In function `putset_firstbold':
+naututil.c:(.text+0x13e0): multiple definition of `putset_firstbold'
+naututil.o:naututil.c:(.text+0x1420): first defined here
+naututil1.o: In function `readgraph':
+naututil.c:(.text+0x15f0): multiple definition of `readgraph'
+naututil.o:naututil.c:(.text+0x1630): first defined here
+naututil1.o: In function `ranreg_sg':
+naututil.c:(.text+0x1a20): multiple definition of `ranreg_sg'
+naututil.o:naututil.c:(.text+0x1b50): first defined here
+naututil1.o: In function `readgraph_sg':
+naututil.c:(.text+0x1fe0): multiple definition of `readgraph_sg'
+naututil.o:naututil.c:(.text+0x2120): first defined here
+naututil1.o: In function `readgraph_swg':
+naututil.c:(.text+0x29d0): multiple definition of `readgraph_swg'
+naututil.o:naututil.c:(.text+0x2b10): first defined here
+naututil1.o: In function `putgraph':
+naututil.c:(.text+0x35a0): multiple definition of `putgraph'
+naututil.o:naututil.c:(.text+0x36e0): first defined here
+naututil1.o: In function `putgraph_sg':
+naututil.c:(.text+0x3670): multiple definition of `putgraph_sg'
+naututil.o:naututil.c:(.text+0x37c0): first defined here
+naututil1.o: In function `putmapping':
+naututil.c:(.text+0x3890): multiple definition of `putmapping'
+naututil.o:naututil.c:(.text+0x39e0): first defined here
+naututil1.o: In function `putorbits':
+naututil.c:(.text+0x3a70): multiple definition of `putorbits'
+naututil.o:naututil.c:(.text+0x3c40): first defined here
+naututil1.o: In function `putorbitsplus':
+naututil.c:(.text+0x3cc0): multiple definition of `putorbitsplus'
+naututil.o:naututil.c:(.text+0x3fe0): first defined here
+naututil1.o: In function `putquotient':
+naututil.c:(.text+0x3f10): multiple definition of `putquotient'
+naututil.o:naututil.c:(.text+0x4380): first defined here
+naututil1.o: In function `putquotient_sg':
+naututil.c:(.text+0x4450): multiple definition of `putquotient_sg'
+naututil.o:naututil.c:(.text+0x4a60): first defined here
+naututil1.o: In function `putptn':
+naututil.c:(.text+0x4a20): multiple definition of `putptn'
+naututil.o:naututil.c:(.text+0x51b0): first defined here
+naututil1.o: In function `putcanon':
+naututil.c:(.text+0x4ba0): multiple definition of `putcanon'
+naututil.o:naututil.c:(.text+0x53f0): first defined here
+naututil1.o: In function `putcanon_sg':
+naututil.c:(.text+0x4dd0): multiple definition of `putcanon_sg'
+naututil.o:naututil.c:(.text+0x5610): first defined here
+naututil1.o: In function `unitptn':
+naututil.c:(.text+0x4ff0): multiple definition of `unitptn'
+naututil.o:naututil.c:(.text+0x5830): first defined here
+naututil1.o: In function `individualise':
+naututil.c:(.text+0x51c0): multiple definition of `individualise'
+naututil.o:naututil.c:(.text+0x5a00): first defined here
+naututil1.o: In function `cellstarts':
+naututil.c:(.text+0x5260): multiple definition of `cellstarts'
+naututil.o:naututil.c:(.text+0x5aa0): first defined here
+naututil1.o: In function `fixit':
+naututil.c:(.text+0x52e0): multiple definition of `fixit'
+naututil.o:naututil.c:(.text+0x5b60): first defined here
+naututil1.o: In function `readptn':
+naututil.c:(.text+0x5520): multiple definition of `readptn'
+naututil.o:naututil.c:(.text+0x5da0): first defined here
+naututil1.o: In function `sethash':
+naututil.c:(.text+0x5a80): multiple definition of `sethash'
+naututil.o:naututil.c:(.text+0x63b0): first defined here
+naututil1.o: In function `listhash':
+naututil.c:(.text+0x5c50): multiple definition of `listhash'
+naututil.o:naututil.c:(.text+0x6580): first defined here
+naututil1.o: In function `hashgraph_sg':
+naututil.c:(.text+0x5ca0): multiple definition of `hashgraph_sg'
+naututil.o:naututil.c:(.text+0x65d0): first defined here
+naututil1.o: In function `hashgraph':
+naututil.c:(.text+0x5da0): multiple definition of `hashgraph'
+naututil.o:naututil.c:(.text+0x66d0): first defined here
+naututil1.o: In function `hash':
+naututil.c:(.text+0x5e60): multiple definition of `hash'
+naututil.o:naututil.c:(.text+0x6790): first defined here
+naututil1.o: In function `readvperm':
+naututil.c:(.text+0x5ec0): multiple definition of `readvperm'
+naututil.o:naututil.c:(.text+0x67f0): first defined here
+naututil1.o: In function `readperm':
+naututil.c:(.text+0x61f0): multiple definition of `readperm'
+naututil.o:naututil.c:(.text+0x6bf0): first defined here
+naututil1.o: In function `ranperm':
+naututil.c:(.text+0x6230): multiple definition of `ranperm'
+naututil.o:naututil.c:(.text+0x6c30): first defined here
+naututil1.o: In function `relabel':
+naututil.c:(.text+0x63b0): multiple definition of `relabel'
+naututil.o:naututil.c:(.text+0x6db0): first defined here
+naututil1.o: In function `relabel_sg':
+naututil.c:(.text+0x6520): multiple definition of `relabel_sg'
+naututil.o:naututil.c:(.text+0x6f90): first defined here
+naututil1.o: In function `sublabel':
+naututil.c:(.text+0x66d0): multiple definition of `sublabel'
+naututil.o:naututil.c:(.text+0x71b0): first defined here
+naututil1.o: In function `countcells':
+naututil.c:(.text+0x6870): multiple definition of `countcells'
+naututil.o:naututil.c:(.text+0x7380): first defined here
+naututil1.o: In function `subpartition':
+naututil.c:(.text+0x6a80): multiple definition of `subpartition'
+naututil.o:naututil.c:(.text+0x7590): first defined here
+naututil1.o: In function `sublabel_sg':
+naututil.c:(.text+0x6b80): multiple definition of `sublabel_sg'
+naututil.o:naututil.c:(.text+0x7710): first defined here
+naututil1.o: In function `copycomment':
+naututil.c:(.text+0x7030): multiple definition of `copycomment'
+naututil.o:naututil.c:(.text+0x7c20): first defined here
+naututil1.o: In function `converse_sg':
+naututil.c:(.text+0x71d0): multiple definition of `converse_sg'
+naututil.o:naututil.c:(.text+0x7dc0): first defined here
+naututil1.o: In function `complement_sg':
+naututil.c:(.text+0x74b0): multiple definition of `complement_sg'
+naututil.o:naututil.c:(.text+0x80a0): first defined here
+naututil1.o: In function `mathon_sg':
+naututil.c:(.text+0x7940): multiple definition of `mathon_sg'
+naututil.o:naututil.c:(.text+0x86c0): first defined here
+naututil1.o: In function `mathon':
+naututil.c:(.text+0x7f90): multiple definition of `mathon'
+naututil.o:naututil.c:(.text+0x8dc0): first defined here
+naututil1.o: In function `rangraph':
+naututil.c:(.text+0x80d0): multiple definition of `rangraph'
+naututil.o:naututil.c:(.text+0x8f90): first defined here
+naututil1.o: In function `rangraph2':
+naututil.c:(.text+0x8240): multiple definition of `rangraph2'
+naututil.o:naututil.c:(.text+0x9100): first defined here
+naututil1.o: In function `rangraph2_sg':
+naututil.c:(.text+0x83c0): multiple definition of `rangraph2_sg'
+naututil.o:naututil.c:(.text+0x92a0): first defined here
+naututil1.o: In function `putdegs':
+naututil.c:(.text+0x8d10): multiple definition of `putdegs'
+naututil.o:naututil.c:(.text+0x9bf0): first defined here
+naututil1.o: In function `putdegseq':
+naututil.c:(.text+0x8d90): multiple definition of `putdegseq'
+naututil.o:naututil.c:(.text+0x9d00): first defined here
+naututil1.o: In function `putdegs_sg':
+naututil.c:(.text+0x8e10): multiple definition of `putdegs_sg'
+naututil.o:naututil.c:(.text+0x9e10): first defined here
+naututil1.o: In function `putdegseq_sg':
+naututil.c:(.text+0x8e20): multiple definition of `putdegseq_sg'
+naututil.o:naututil.c:(.text+0x9e20): first defined here
+naututil1.o: In function `complement':
+naututil.c:(.text+0x8e80): multiple definition of `complement'
+naututil.o:naututil.c:(.text+0x9f00): first defined here
+naututil1.o: In function `converse':
+naututil.c:(.text+0x8fb0): multiple definition of `converse'
+naututil.o:naututil.c:(.text+0xa1f0): first defined here
+naututil1.o: In function `naututil_check':
+naututil.c:(.text+0x9070): multiple definition of `naututil_check'
+naututil.o:naututil.c:(.text+0xa2a0): first defined here
+naututil1.o: In function `naututil_freedyn':
+naututil.c:(.text+0x9140): multiple definition of `naututil_freedyn'
+naututil.o:naututil.c:(.text+0xa310): first defined here
+naututilL.o: In function `setinter':
+naututil.c:(.text+0xcd0): multiple definition of `setinter'
+naututil.o:naututil.c:(.text+0xcd0): first defined here
+naututilL.o: In function `setsize':
+naututil.c:(.text+0xd20): multiple definition of `setsize'
+naututil.o:naututil.c:(.text+0xd20): first defined here
+naututilL.o: In function `flushline':
+naututil.c:(.text+0xd50): multiple definition of `flushline'
+naututil.o:naututil.c:(.text+0xd50): first defined here
+naututilL.o: In function `readinteger':
+naututil.c:(.text+0xe50): multiple definition of `readinteger'
+naututil.o:naututil.c:(.text+0xe50): first defined here
+naututilL.o: In function `readinteger_sl':
+naututil.c:(.text+0xf20): multiple definition of `readinteger_sl'
+naututil.o:naututil.c:(.text+0xf20): first defined here
+naututilL.o: In function `readstring':
+naututil.c:(.text+0xff0): multiple definition of `readstring'
+naututil.o:naututil.c:(.text+0xff0): first defined here
+naututilL.o: In function `getint':
+naututil.c:(.text+0x1170): multiple definition of `getint'
+naututil.o:naututil.c:(.text+0x1170): first defined here
+naututilL.o: In function `getint_sl':
+naututil.c:(.text+0x1200): multiple definition of `getint_sl'
+naututil.o:naututil.c:(.text+0x1200): first defined here
+naututilL.o: In function `putset':
+naututil.c:(.text+0x1280): multiple definition of `putset'
+naututil.o:naututil.c:(.text+0x1280): first defined here
+naututilL.o: In function `putset_firstbold':
+naututil.c:(.text+0x1420): multiple definition of `putset_firstbold'
+naututil.o:naututil.c:(.text+0x1420): first defined here
+naututilL.o: In function `readgraph':
+naututil.c:(.text+0x1630): multiple definition of `readgraph'
+naututil.o:naututil.c:(.text+0x1630): first defined here
+naututilL.o: In function `ranreg_sg':
+naututil.c:(.text+0x1b50): multiple definition of `ranreg_sg'
+naututil.o:naututil.c:(.text+0x1b50): first defined here
+naututilL.o: In function `readgraph_sg':
+naututil.c:(.text+0x2120): multiple definition of `readgraph_sg'
+naututil.o:naututil.c:(.text+0x2120): first defined here
+naututilL.o: In function `readgraph_swg':
+naututil.c:(.text+0x2b10): multiple definition of `readgraph_swg'
+naututil.o:naututil.c:(.text+0x2b10): first defined here
+naututilL.o: In function `putgraph':
+naututil.c:(.text+0x36e0): multiple definition of `putgraph'
+naututil.o:naututil.c:(.text+0x36e0): first defined here
+naututilL.o: In function `putgraph_sg':
+naututil.c:(.text+0x37c0): multiple definition of `putgraph_sg'
+naututil.o:naututil.c:(.text+0x37c0): first defined here
+naututilL.o: In function `putmapping':
+naututil.c:(.text+0x39e0): multiple definition of `putmapping'
+naututil.o:naututil.c:(.text+0x39e0): first defined here
+naututilL.o: In function `putorbits':
+naututil.c:(.text+0x3c40): multiple definition of `putorbits'
+naututil.o:naututil.c:(.text+0x3c40): first defined here
+naututilL.o: In function `putorbitsplus':
+naututil.c:(.text+0x3fe0): multiple definition of `putorbitsplus'
+naututil.o:naututil.c:(.text+0x3fe0): first defined here
+naututilL.o: In function `putquotient':
+naututil.c:(.text+0x4380): multiple definition of `putquotient'
+naututil.o:naututil.c:(.text+0x4380): first defined here
+naututilL.o: In function `putquotient_sg':
+naututil.c:(.text+0x4a60): multiple definition of `putquotient_sg'
+naututil.o:naututil.c:(.text+0x4a60): first defined here
+naututilL.o: In function `putptn':
+naututil.c:(.text+0x51b0): multiple definition of `putptn'
+naututil.o:naututil.c:(.text+0x51b0): first defined here
+naututilL.o: In function `putcanon':
+naututil.c:(.text+0x53f0): multiple definition of `putcanon'
+naututil.o:naututil.c:(.text+0x53f0): first defined here
+naututilL.o: In function `putcanon_sg':
+naututil.c:(.text+0x5610): multiple definition of `putcanon_sg'
+naututil.o:naututil.c:(.text+0x5610): first defined here
+naututilL.o: In function `unitptn':
+naututil.c:(.text+0x5830): multiple definition of `unitptn'
+naututil.o:naututil.c:(.text+0x5830): first defined here
+naututilL.o: In function `individualise':
+naututil.c:(.text+0x5a00): multiple definition of `individualise'
+naututil.o:naututil.c:(.text+0x5a00): first defined here
+naututilL.o: In function `cellstarts':
+naututil.c:(.text+0x5aa0): multiple definition of `cellstarts'
+naututil.o:naututil.c:(.text+0x5aa0): first defined here
+naututilL.o: In function `fixit':
+naututil.c:(.text+0x5b60): multiple definition of `fixit'
+naututil.o:naututil.c:(.text+0x5b60): first defined here
+naututilL.o: In function `readptn':
+naututil.c:(.text+0x5da0): multiple definition of `readptn'
+naututil.o:naututil.c:(.text+0x5da0): first defined here
+naututilL.o: In function `sethash':
+naututil.c:(.text+0x63b0): multiple definition of `sethash'
+naututil.o:naututil.c:(.text+0x63b0): first defined here
+naututilL.o: In function `listhash':
+naututil.c:(.text+0x6580): multiple definition of `listhash'
+naututil.o:naututil.c:(.text+0x6580): first defined here
+naututilL.o: In function `hashgraph_sg':
+naututil.c:(.text+0x65d0): multiple definition of `hashgraph_sg'
+naututil.o:naututil.c:(.text+0x65d0): first defined here
+naututilL.o: In function `hashgraph':
+naututil.c:(.text+0x66d0): multiple definition of `hashgraph'
+naututil.o:naututil.c:(.text+0x66d0): first defined here
+naututilL.o: In function `hash':
+naututil.c:(.text+0x6790): multiple definition of `hash'
+naututil.o:naututil.c:(.text+0x6790): first defined here
+naututilL.o: In function `readvperm':
+naututil.c:(.text+0x67f0): multiple definition of `readvperm'
+naututil.o:naututil.c:(.text+0x67f0): first defined here
+naututilL.o: In function `readperm':
+naututil.c:(.text+0x6bf0): multiple definition of `readperm'
+naututil.o:naututil.c:(.text+0x6bf0): first defined here
+naututilL.o: In function `ranperm':
+naututil.c:(.text+0x6c30): multiple definition of `ranperm'
+naututil.o:naututil.c:(.text+0x6c30): first defined here
+naututilL.o: In function `relabel':
+naututil.c:(.text+0x6db0): multiple definition of `relabel'
+naututil.o:naututil.c:(.text+0x6db0): first defined here
+naututilL.o: In function `relabel_sg':
+naututil.c:(.text+0x6f90): multiple definition of `relabel_sg'
+naututil.o:naututil.c:(.text+0x6f90): first defined here
+naututilL.o: In function `sublabel':
+naututil.c:(.text+0x71b0): multiple definition of `sublabel'
+naututil.o:naututil.c:(.text+0x71b0): first defined here
+naututilL.o: In function `countcells':
+naututil.c:(.text+0x7380): multiple definition of `countcells'
+naututil.o:naututil.c:(.text+0x7380): first defined here
+naututilL.o: In function `subpartition':
+naututil.c:(.text+0x7590): multiple definition of `subpartition'
+naututil.o:naututil.c:(.text+0x7590): first defined here
+naututilL.o: In function `sublabel_sg':
+naututil.c:(.text+0x7710): multiple definition of `sublabel_sg'
+naututil.o:naututil.c:(.text+0x7710): first defined here
+naututilL.o: In function `copycomment':
+naututil.c:(.text+0x7c20): multiple definition of `copycomment'
+naututil.o:naututil.c:(.text+0x7c20): first defined here
+naututilL.o: In function `converse_sg':
+naututil.c:(.text+0x7dc0): multiple definition of `converse_sg'
+naututil.o:naututil.c:(.text+0x7dc0): first defined here
+naututilL.o: In function `complement_sg':
+naututil.c:(.text+0x80a0): multiple definition of `complement_sg'
+naututil.o:naututil.c:(.text+0x80a0): first defined here
+naututilL.o: In function `mathon_sg':
+naututil.c:(.text+0x86c0): multiple definition of `mathon_sg'
+naututil.o:naututil.c:(.text+0x86c0): first defined here
+naututilL.o: In function `mathon':
+naututil.c:(.text+0x8dc0): multiple definition of `mathon'
+naututil.o:naututil.c:(.text+0x8dc0): first defined here
+naututilL.o: In function `rangraph':
+naututil.c:(.text+0x8f90): multiple definition of `rangraph'
+naututil.o:naututil.c:(.text+0x8f90): first defined here
+naututilL.o: In function `rangraph2':
+naututil.c:(.text+0x9100): multiple definition of `rangraph2'
+naututil.o:naututil.c:(.text+0x9100): first defined here
+naututilL.o: In function `rangraph2_sg':
+naututil.c:(.text+0x92a0): multiple definition of `rangraph2_sg'
+naututil.o:naututil.c:(.text+0x92a0): first defined here
+naututilL.o: In function `putdegs':
+naututil.c:(.text+0x9bf0): multiple definition of `putdegs'
+naututil.o:naututil.c:(.text+0x9bf0): first defined here
+naututilL.o: In function `putdegseq':
+naututil.c:(.text+0x9d00): multiple definition of `putdegseq'
+naututil.o:naututil.c:(.text+0x9d00): first defined here
+naututilL.o: In function `putdegs_sg':
+naututil.c:(.text+0x9e10): multiple definition of `putdegs_sg'
+naututil.o:naututil.c:(.text+0x9e10): first defined here
+naututilL.o: In function `putdegseq_sg':
+naututil.c:(.text+0x9e20): multiple definition of `putdegseq_sg'
+naututil.o:naututil.c:(.text+0x9e20): first defined here
+naututilL.o: In function `complement':
+naututil.c:(.text+0x9f00): multiple definition of `complement'
+naututil.o:naututil.c:(.text+0x9f00): first defined here
+naututilL.o: In function `converse':
+naututil.c:(.text+0xa1f0): multiple definition of `converse'
+naututil.o:naututil.c:(.text+0xa1f0): first defined here
+naututilL.o: In function `naututil_check':
+naututil.c:(.text+0xa2a0): multiple definition of `naututil_check'
+naututil.o:naututil.c:(.text+0xa2a0): first defined here
+naututilL.o: In function `naututil_freedyn':
+naututil.c:(.text+0xa310): multiple definition of `naututil_freedyn'
+naututil.o:naututil.c:(.text+0xa310): first defined here
+naututilL1.o: In function `setinter':
+naututil.c:(.text+0xce0): multiple definition of `setinter'
+naututil.o:naututil.c:(.text+0xcd0): first defined here
+naututilL1.o: In function `setsize':
+naututil.c:(.text+0xd00): multiple definition of `setsize'
+naututil.o:naututil.c:(.text+0xd20): first defined here
+naututilL1.o: In function `flushline':
+naututil.c:(.text+0xd10): multiple definition of `flushline'
+naututil.o:naututil.c:(.text+0xd50): first defined here
+naututilL1.o: In function `readinteger':
+naututil.c:(.text+0xe10): multiple definition of `readinteger'
+naututil.o:naututil.c:(.text+0xe50): first defined here
+naututilL1.o: In function `readinteger_sl':
+naututil.c:(.text+0xee0): multiple definition of `readinteger_sl'
+naututil.o:naututil.c:(.text+0xf20): first defined here
+naututilL1.o: In function `readstring':
+naututil.c:(.text+0xfb0): multiple definition of `readstring'
+naututil.o:naututil.c:(.text+0xff0): first defined here
+naututilL1.o: In function `getint':
+naututil.c:(.text+0x1130): multiple definition of `getint'
+naututil.o:naututil.c:(.text+0x1170): first defined here
+naututilL1.o: In function `getint_sl':
+naututil.c:(.text+0x11c0): multiple definition of `getint_sl'
+naututil.o:naututil.c:(.text+0x1200): first defined here
+naututilL1.o: In function `putset':
+naututil.c:(.text+0x1240): multiple definition of `putset'
+naututil.o:naututil.c:(.text+0x1280): first defined here
+naututilL1.o: In function `putset_firstbold':
+naututil.c:(.text+0x13e0): multiple definition of `putset_firstbold'
+naututil.o:naututil.c:(.text+0x1420): first defined here
+naututilL1.o: In function `readgraph':
+naututil.c:(.text+0x15f0): multiple definition of `readgraph'
+naututil.o:naututil.c:(.text+0x1630): first defined here
+naututilL1.o: In function `ranreg_sg':
+naututil.c:(.text+0x1a20): multiple definition of `ranreg_sg'
+naututil.o:naututil.c:(.text+0x1b50): first defined here
+naututilL1.o: In function `readgraph_sg':
+naututil.c:(.text+0x1fe0): multiple definition of `readgraph_sg'
+naututil.o:naututil.c:(.text+0x2120): first defined here
+naututilL1.o: In function `readgraph_swg':
+naututil.c:(.text+0x29d0): multiple definition of `readgraph_swg'
+naututil.o:naututil.c:(.text+0x2b10): first defined here
+naututilL1.o: In function `putgraph':
+naututil.c:(.text+0x35a0): multiple definition of `putgraph'
+naututil.o:naututil.c:(.text+0x36e0): first defined here
+naututilL1.o: In function `putgraph_sg':
+naututil.c:(.text+0x3670): multiple definition of `putgraph_sg'
+naututil.o:naututil.c:(.text+0x37c0): first defined here
+naututilL1.o: In function `putmapping':
+naututil.c:(.text+0x3890): multiple definition of `putmapping'
+naututil.o:naututil.c:(.text+0x39e0): first defined here
+naututilL1.o: In function `putorbits':
+naututil.c:(.text+0x3a70): multiple definition of `putorbits'
+naututil.o:naututil.c:(.text+0x3c40): first defined here
+naututilL1.o: In function `putorbitsplus':
+naututil.c:(.text+0x3cc0): multiple definition of `putorbitsplus'
+naututil.o:naututil.c:(.text+0x3fe0): first defined here
+naututilL1.o: In function `putquotient':
+naututil.c:(.text+0x3f10): multiple definition of `putquotient'
+naututil.o:naututil.c:(.text+0x4380): first defined here
+naututilL1.o: In function `putquotient_sg':
+naututil.c:(.text+0x4450): multiple definition of `putquotient_sg'
+naututil.o:naututil.c:(.text+0x4a60): first defined here
+naututilL1.o: In function `putptn':
+naututil.c:(.text+0x4a20): multiple definition of `putptn'
+naututil.o:naututil.c:(.text+0x51b0): first defined here
+naututilL1.o: In function `putcanon':
+naututil.c:(.text+0x4ba0): multiple definition of `putcanon'
+naututil.o:naututil.c:(.text+0x53f0): first defined here
+naututilL1.o: In function `putcanon_sg':
+naututil.c:(.text+0x4dd0): multiple definition of `putcanon_sg'
+naututil.o:naututil.c:(.text+0x5610): first defined here
+naututilL1.o: In function `unitptn':
+naututil.c:(.text+0x4ff0): multiple definition of `unitptn'
+naututil.o:naututil.c:(.text+0x5830): first defined here
+naututilL1.o: In function `individualise':
+naututil.c:(.text+0x51c0): multiple definition of `individualise'
+naututil.o:naututil.c:(.text+0x5a00): first defined here
+naututilL1.o: In function `cellstarts':
+naututil.c:(.text+0x5260): multiple definition of `cellstarts'
+naututil.o:naututil.c:(.text+0x5aa0): first defined here
+naututilL1.o: In function `fixit':
+naututil.c:(.text+0x52e0): multiple definition of `fixit'
+naututil.o:naututil.c:(.text+0x5b60): first defined here
+naututilL1.o: In function `readptn':
+naututil.c:(.text+0x5520): multiple definition of `readptn'
+naututil.o:naututil.c:(.text+0x5da0): first defined here
+naututilL1.o: In function `sethash':
+naututil.c:(.text+0x5a80): multiple definition of `sethash'
+naututil.o:naututil.c:(.text+0x63b0): first defined here
+naututilL1.o: In function `listhash':
+naututil.c:(.text+0x5c50): multiple definition of `listhash'
+naututil.o:naututil.c:(.text+0x6580): first defined here
+naututilL1.o: In function `hashgraph_sg':
+naututil.c:(.text+0x5ca0): multiple definition of `hashgraph_sg'
+naututil.o:naututil.c:(.text+0x65d0): first defined here
+naututilL1.o: In function `hashgraph':
+naututil.c:(.text+0x5da0): multiple definition of `hashgraph'
+naututil.o:naututil.c:(.text+0x66d0): first defined here
+naututilL1.o: In function `hash':
+naututil.c:(.text+0x5e60): multiple definition of `hash'
+naututil.o:naututil.c:(.text+0x6790): first defined here
+naututilL1.o: In function `readvperm':
+naututil.c:(.text+0x5ec0): multiple definition of `readvperm'
+naututil.o:naututil.c:(.text+0x67f0): first defined here
+naututilL1.o: In function `readperm':
+naututil.c:(.text+0x61f0): multiple definition of `readperm'
+naututil.o:naututil.c:(.text+0x6bf0): first defined here
+naututilL1.o: In function `ranperm':
+naututil.c:(.text+0x6230): multiple definition of `ranperm'
+naututil.o:naututil.c:(.text+0x6c30): first defined here
+naututilL1.o: In function `relabel':
+naututil.c:(.text+0x63b0): multiple definition of `relabel'
+naututil.o:naututil.c:(.text+0x6db0): first defined here
+naututilL1.o: In function `relabel_sg':
+naututil.c:(.text+0x6520): multiple definition of `relabel_sg'
+naututil.o:naututil.c:(.text+0x6f90): first defined here
+naututilL1.o: In function `sublabel':
+naututil.c:(.text+0x66d0): multiple definition of `sublabel'
+naututil.o:naututil.c:(.text+0x71b0): first defined here
+naututilL1.o: In function `countcells':
+naututil.c:(.text+0x6870): multiple definition of `countcells'
+naututil.o:naututil.c:(.text+0x7380): first defined here
+naututilL1.o: In function `subpartition':
+naututil.c:(.text+0x6a80): multiple definition of `subpartition'
+naututil.o:naututil.c:(.text+0x7590): first defined here
+naututilL1.o: In function `sublabel_sg':
+naututil.c:(.text+0x6b80): multiple definition of `sublabel_sg'
+naututil.o:naututil.c:(.text+0x7710): first defined here
+naututilL1.o: In function `copycomment':
+naututil.c:(.text+0x7030): multiple definition of `copycomment'
+naututil.o:naututil.c:(.text+0x7c20): first defined here
+naututilL1.o: In function `converse_sg':
+naututil.c:(.text+0x71d0): multiple definition of `converse_sg'
+naututil.o:naututil.c:(.text+0x7dc0): first defined here
+naututilL1.o: In function `complement_sg':
+naututil.c:(.text+0x74b0): multiple definition of `complement_sg'
+naututil.o:naututil.c:(.text+0x80a0): first defined here
+naututilL1.o: In function `mathon_sg':
+naututil.c:(.text+0x7940): multiple definition of `mathon_sg'
+naututil.o:naututil.c:(.text+0x86c0): first defined here
+naututilL1.o: In function `mathon':
+naututil.c:(.text+0x7f90): multiple definition of `mathon'
+naututil.o:naututil.c:(.text+0x8dc0): first defined here
+naututilL1.o: In function `rangraph':
+naututil.c:(.text+0x80d0): multiple definition of `rangraph'
+naututil.o:naututil.c:(.text+0x8f90): first defined here
+naututilL1.o: In function `rangraph2':
+naututil.c:(.text+0x8240): multiple definition of `rangraph2'
+naututil.o:naututil.c:(.text+0x9100): first defined here
+naututilL1.o: In function `rangraph2_sg':
+naututil.c:(.text+0x83c0): multiple definition of `rangraph2_sg'
+naututil.o:naututil.c:(.text+0x92a0): first defined here
+naututilL1.o: In function `putdegs':
+naututil.c:(.text+0x8d10): multiple definition of `putdegs'
+naututil.o:naututil.c:(.text+0x9bf0): first defined here
+naututilL1.o: In function `putdegseq':
+naututil.c:(.text+0x8d90): multiple definition of `putdegseq'
+naututil.o:naututil.c:(.text+0x9d00): first defined here
+naututilL1.o: In function `putdegs_sg':
+naututil.c:(.text+0x8e10): multiple definition of `putdegs_sg'
+naututil.o:naututil.c:(.text+0x9e10): first defined here
+naututilL1.o: In function `putdegseq_sg':
+naututil.c:(.text+0x8e20): multiple definition of `putdegseq_sg'
+naututil.o:naututil.c:(.text+0x9e20): first defined here
+naututilL1.o: In function `complement':
+naututil.c:(.text+0x8e80): multiple definition of `complement'
+naututil.o:naututil.c:(.text+0x9f00): first defined here
+naututilL1.o: In function `converse':
+naututil.c:(.text+0x8fb0): multiple definition of `converse'
+naututil.o:naututil.c:(.text+0xa1f0): first defined here
+naututilL1.o: In function `naututil_check':
+naututil.c:(.text+0x9070): multiple definition of `naututil_check'
+naututil.o:naututil.c:(.text+0xa2a0): first defined here
+naututilL1.o: In function `naututil_freedyn':
+naututil.c:(.text+0x9140): multiple definition of `naututil_freedyn'
+naututil.o:naututil.c:(.text+0xa310): first defined here
+naututilW.o: In function `setinter':
+naututil.c:(.text+0xcd0): multiple definition of `setinter'
+naututil.o:naututil.c:(.text+0xcd0): first defined here
+naututilW.o: In function `setsize':
+naututil.c:(.text+0xd20): multiple definition of `setsize'
+naututil.o:naututil.c:(.text+0xd20): first defined here
+naututilW.o: In function `flushline':
+naututil.c:(.text+0xd50): multiple definition of `flushline'
+naututil.o:naututil.c:(.text+0xd50): first defined here
+naututilW.o: In function `readinteger':
+naututil.c:(.text+0xe50): multiple definition of `readinteger'
+naututil.o:naututil.c:(.text+0xe50): first defined here
+naututilW.o: In function `readinteger_sl':
+naututil.c:(.text+0xf20): multiple definition of `readinteger_sl'
+naututil.o:naututil.c:(.text+0xf20): first defined here
+naututilW.o: In function `readstring':
+naututil.c:(.text+0xff0): multiple definition of `readstring'
+naututil.o:naututil.c:(.text+0xff0): first defined here
+naututilW.o: In function `getint':
+naututil.c:(.text+0x1170): multiple definition of `getint'
+naututil.o:naututil.c:(.text+0x1170): first defined here
+naututilW.o: In function `getint_sl':
+naututil.c:(.text+0x1200): multiple definition of `getint_sl'
+naututil.o:naututil.c:(.text+0x1200): first defined here
+naututilW.o: In function `putset':
+naututil.c:(.text+0x1280): multiple definition of `putset'
+naututil.o:naututil.c:(.text+0x1280): first defined here
+naututilW.o: In function `putset_firstbold':
+naututil.c:(.text+0x1420): multiple definition of `putset_firstbold'
+naututil.o:naututil.c:(.text+0x1420): first defined here
+naututilW.o: In function `readgraph':
+naututil.c:(.text+0x1630): multiple definition of `readgraph'
+naututil.o:naututil.c:(.text+0x1630): first defined here
+naututilW.o: In function `ranreg_sg':
+naututil.c:(.text+0x1b40): multiple definition of `ranreg_sg'
+naututil.o:naututil.c:(.text+0x1b50): first defined here
+naututilW.o: In function `readgraph_sg':
+naututil.c:(.text+0x2110): multiple definition of `readgraph_sg'
+naututil.o:naututil.c:(.text+0x2120): first defined here
+naututilW.o: In function `readgraph_swg':
+naututil.c:(.text+0x2b00): multiple definition of `readgraph_swg'
+naututil.o:naututil.c:(.text+0x2b10): first defined here
+naututilW.o: In function `putgraph':
+naututil.c:(.text+0x36d0): multiple definition of `putgraph'
+naututil.o:naututil.c:(.text+0x36e0): first defined here
+naututilW.o: In function `putgraph_sg':
+naututil.c:(.text+0x37b0): multiple definition of `putgraph_sg'
+naututil.o:naututil.c:(.text+0x37c0): first defined here
+naututilW.o: In function `putmapping':
+naututil.c:(.text+0x39d0): multiple definition of `putmapping'
+naututil.o:naututil.c:(.text+0x39e0): first defined here
+naututilW.o: In function `putorbits':
+naututil.c:(.text+0x3c30): multiple definition of `putorbits'
+naututil.o:naututil.c:(.text+0x3c40): first defined here
+naututilW.o: In function `putorbitsplus':
+naututil.c:(.text+0x3fd0): multiple definition of `putorbitsplus'
+naututil.o:naututil.c:(.text+0x3fe0): first defined here
+naututilW.o: In function `putquotient':
+naututil.c:(.text+0x4370): multiple definition of `putquotient'
+naututil.o:naututil.c:(.text+0x4380): first defined here
+naututilW.o: In function `putquotient_sg':
+naututil.c:(.text+0x4a50): multiple definition of `putquotient_sg'
+naututil.o:naututil.c:(.text+0x4a60): first defined here
+naututilW.o: In function `putptn':
+naututil.c:(.text+0x51a0): multiple definition of `putptn'
+naututil.o:naututil.c:(.text+0x51b0): first defined here
+naututilW.o: In function `putcanon':
+naututil.c:(.text+0x53e0): multiple definition of `putcanon'
+naututil.o:naututil.c:(.text+0x53f0): first defined here
+naututilW.o: In function `putcanon_sg':
+naututil.c:(.text+0x5600): multiple definition of `putcanon_sg'
+naututil.o:naututil.c:(.text+0x5610): first defined here
+naututilW.o: In function `unitptn':
+naututil.c:(.text+0x5820): multiple definition of `unitptn'
+naututil.o:naututil.c:(.text+0x5830): first defined here
+naututilW.o: In function `individualise':
+naututil.c:(.text+0x59f0): multiple definition of `individualise'
+naututil.o:naututil.c:(.text+0x5a00): first defined here
+naututilW.o: In function `cellstarts':
+naututil.c:(.text+0x5a90): multiple definition of `cellstarts'
+naututil.o:naututil.c:(.text+0x5aa0): first defined here
+naututilW.o: In function `fixit':
+naututil.c:(.text+0x5b50): multiple definition of `fixit'
+naututil.o:naututil.c:(.text+0x5b60): first defined here
+naututilW.o: In function `readptn':
+naututil.c:(.text+0x5d90): multiple definition of `readptn'
+naututil.o:naututil.c:(.text+0x5da0): first defined here
+naututilW.o: In function `sethash':
+naututil.c:(.text+0x6390): multiple definition of `sethash'
+naututil.o:naututil.c:(.text+0x63b0): first defined here
+naututilW.o: In function `listhash':
+naututil.c:(.text+0x64a0): multiple definition of `listhash'
+naututil.o:naututil.c:(.text+0x6580): first defined here
+naututilW.o: In function `hashgraph_sg':
+naututil.c:(.text+0x64f0): multiple definition of `hashgraph_sg'
+naututil.o:naututil.c:(.text+0x65d0): first defined here
+naututilW.o: In function `hashgraph':
+naututil.c:(.text+0x65f0): multiple definition of `hashgraph'
+naututil.o:naututil.c:(.text+0x66d0): first defined here
+naututilW.o: In function `hash':
+naututil.c:(.text+0x66b0): multiple definition of `hash'
+naututil.o:naututil.c:(.text+0x6790): first defined here
+naututilW.o: In function `readvperm':
+naututil.c:(.text+0x6710): multiple definition of `readvperm'
+naututil.o:naututil.c:(.text+0x67f0): first defined here
+naututilW.o: In function `readperm':
+naututil.c:(.text+0x6b10): multiple definition of `readperm'
+naututil.o:naututil.c:(.text+0x6bf0): first defined here
+naututilW.o: In function `ranperm':
+naututil.c:(.text+0x6b50): multiple definition of `ranperm'
+naututil.o:naututil.c:(.text+0x6c30): first defined here
+naututilW.o: In function `relabel':
+naututil.c:(.text+0x6cd0): multiple definition of `relabel'
+naututil.o:naututil.c:(.text+0x6db0): first defined here
+naututilW.o: In function `relabel_sg':
+naututil.c:(.text+0x6f10): multiple definition of `relabel_sg'
+naututil.o:naututil.c:(.text+0x6f90): first defined here
+naututilW.o: In function `sublabel':
+naututil.c:(.text+0x7130): multiple definition of `sublabel'
+naututil.o:naututil.c:(.text+0x71b0): first defined here
+naututilW.o: In function `countcells':
+naututil.c:(.text+0x7360): multiple definition of `countcells'
+naututil.o:naututil.c:(.text+0x7380): first defined here
+naututilW.o: In function `subpartition':
+naututil.c:(.text+0x7570): multiple definition of `subpartition'
+naututil.o:naututil.c:(.text+0x7590): first defined here
+naututilW.o: In function `sublabel_sg':
+naututil.c:(.text+0x76f0): multiple definition of `sublabel_sg'
+naututil.o:naututil.c:(.text+0x7710): first defined here
+naututilW.o: In function `copycomment':
+naututil.c:(.text+0x7c00): multiple definition of `copycomment'
+naututil.o:naututil.c:(.text+0x7c20): first defined here
+naututilW.o: In function `converse_sg':
+naututil.c:(.text+0x7da0): multiple definition of `converse_sg'
+naututil.o:naututil.c:(.text+0x7dc0): first defined here
+naututilW.o: In function `complement_sg':
+naututil.c:(.text+0x8080): multiple definition of `complement_sg'
+naututil.o:naututil.c:(.text+0x80a0): first defined here
+naututilW.o: In function `mathon_sg':
+naututil.c:(.text+0x8690): multiple definition of `mathon_sg'
+naututil.o:naututil.c:(.text+0x86c0): first defined here
+naututilW.o: In function `mathon':
+naututil.c:(.text+0x8de0): multiple definition of `mathon'
+naututil.o:naututil.c:(.text+0x8dc0): first defined here
+naututilW.o: In function `rangraph':
+naututil.c:(.text+0x8fb0): multiple definition of `rangraph'
+naututil.o:naututil.c:(.text+0x8f90): first defined here
+naututilW.o: In function `rangraph2':
+naututil.c:(.text+0x9120): multiple definition of `rangraph2'
+naututil.o:naututil.c:(.text+0x9100): first defined here
+naututilW.o: In function `rangraph2_sg':
+naututil.c:(.text+0x92c0): multiple definition of `rangraph2_sg'
+naututil.o:naututil.c:(.text+0x92a0): first defined here
+naututilW.o: In function `putdegs':
+naututil.c:(.text+0x9c10): multiple definition of `putdegs'
+naututil.o:naututil.c:(.text+0x9bf0): first defined here
+naututilW.o: In function `putdegseq':
+naututil.c:(.text+0x9d20): multiple definition of `putdegseq'
+naututil.o:naututil.c:(.text+0x9d00): first defined here
+naututilW.o: In function `putdegs_sg':
+naututil.c:(.text+0x9e30): multiple definition of `putdegs_sg'
+naututil.o:naututil.c:(.text+0x9e10): first defined here
+naututilW.o: In function `putdegseq_sg':
+naututil.c:(.text+0x9e40): multiple definition of `putdegseq_sg'
+naututil.o:naututil.c:(.text+0x9e20): first defined here
+naututilW.o: In function `complement':
+naututil.c:(.text+0x9f20): multiple definition of `complement'
+naututil.o:naututil.c:(.text+0x9f00): first defined here
+naututilW.o: In function `converse':
+naututil.c:(.text+0xa280): multiple definition of `converse'
+naututil.o:naututil.c:(.text+0xa1f0): first defined here
+naututilW.o: In function `naututil_check':
+naututil.c:(.text+0xa330): multiple definition of `naututil_check'
+naututil.o:naututil.c:(.text+0xa2a0): first defined here
+naututilW.o: In function `naututil_freedyn':
+naututil.c:(.text+0xa3a0): multiple definition of `naututil_freedyn'
+naututil.o:naututil.c:(.text+0xa310): first defined here
+naututilW1.o: In function `setinter':
+naututil.c:(.text+0xce0): multiple definition of `setinter'
+naututil.o:naututil.c:(.text+0xcd0): first defined here
+naututilW1.o: In function `setsize':
+naututil.c:(.text+0xd00): multiple definition of `setsize'
+naututil.o:naututil.c:(.text+0xd20): first defined here
+naututilW1.o: In function `flushline':
+naututil.c:(.text+0xd10): multiple definition of `flushline'
+naututil.o:naututil.c:(.text+0xd50): first defined here
+naututilW1.o: In function `readinteger':
+naututil.c:(.text+0xe10): multiple definition of `readinteger'
+naututil.o:naututil.c:(.text+0xe50): first defined here
+naututilW1.o: In function `readinteger_sl':
+naututil.c:(.text+0xee0): multiple definition of `readinteger_sl'
+naututil.o:naututil.c:(.text+0xf20): first defined here
+naututilW1.o: In function `readstring':
+naututil.c:(.text+0xfb0): multiple definition of `readstring'
+naututil.o:naututil.c:(.text+0xff0): first defined here
+naututilW1.o: In function `getint':
+naututil.c:(.text+0x1130): multiple definition of `getint'
+naututil.o:naututil.c:(.text+0x1170): first defined here
+naututilW1.o: In function `getint_sl':
+naututil.c:(.text+0x11c0): multiple definition of `getint_sl'
+naututil.o:naututil.c:(.text+0x1200): first defined here
+naututilW1.o: In function `putset':
+naututil.c:(.text+0x1240): multiple definition of `putset'
+naututil.o:naututil.c:(.text+0x1280): first defined here
+naututilW1.o: In function `putset_firstbold':
+naututil.c:(.text+0x13e0): multiple definition of `putset_firstbold'
+naututil.o:naututil.c:(.text+0x1420): first defined here
+naututilW1.o: In function `readgraph':
+naututil.c:(.text+0x15f0): multiple definition of `readgraph'
+naututil.o:naututil.c:(.text+0x1630): first defined here
+naututilW1.o: In function `ranreg_sg':
+naututil.c:(.text+0x1a20): multiple definition of `ranreg_sg'
+naututil.o:naututil.c:(.text+0x1b50): first defined here
+naututilW1.o: In function `readgraph_sg':
+naututil.c:(.text+0x1fe0): multiple definition of `readgraph_sg'
+naututil.o:naututil.c:(.text+0x2120): first defined here
+naututilW1.o: In function `readgraph_swg':
+naututil.c:(.text+0x29d0): multiple definition of `readgraph_swg'
+naututil.o:naututil.c:(.text+0x2b10): first defined here
+naututilW1.o: In function `putgraph':
+naututil.c:(.text+0x35a0): multiple definition of `putgraph'
+naututil.o:naututil.c:(.text+0x36e0): first defined here
+naututilW1.o: In function `putgraph_sg':
+naututil.c:(.text+0x3670): multiple definition of `putgraph_sg'
+naututil.o:naututil.c:(.text+0x37c0): first defined here
+naututilW1.o: In function `putmapping':
+naututil.c:(.text+0x3890): multiple definition of `putmapping'
+naututil.o:naututil.c:(.text+0x39e0): first defined here
+naututilW1.o: In function `putorbits':
+naututil.c:(.text+0x3a70): multiple definition of `putorbits'
+naututil.o:naututil.c:(.text+0x3c40): first defined here
+naututilW1.o: In function `putorbitsplus':
+naututil.c:(.text+0x3cc0): multiple definition of `putorbitsplus'
+naututil.o:naututil.c:(.text+0x3fe0): first defined here
+naututilW1.o: In function `putquotient':
+naututil.c:(.text+0x3f10): multiple definition of `putquotient'
+naututil.o:naututil.c:(.text+0x4380): first defined here
+naututilW1.o: In function `putquotient_sg':
+naututil.c:(.text+0x4460): multiple definition of `putquotient_sg'
+naututil.o:naututil.c:(.text+0x4a60): first defined here
+naututilW1.o: In function `putptn':
+naututil.c:(.text+0x4a50): multiple definition of `putptn'
+naututil.o:naututil.c:(.text+0x51b0): first defined here
+naututilW1.o: In function `putcanon':
+naututil.c:(.text+0x4bd0): multiple definition of `putcanon'
+naututil.o:naututil.c:(.text+0x53f0): first defined here
+naututilW1.o: In function `putcanon_sg':
+naututil.c:(.text+0x4d40): multiple definition of `putcanon_sg'
+naututil.o:naututil.c:(.text+0x5610): first defined here
+naututilW1.o: In function `unitptn':
+naututil.c:(.text+0x4ea0): multiple definition of `unitptn'
+naututil.o:naututil.c:(.text+0x5830): first defined here
+naututilW1.o: In function `individualise':
+naututil.c:(.text+0x5070): multiple definition of `individualise'
+naututil.o:naututil.c:(.text+0x5a00): first defined here
+naututilW1.o: In function `cellstarts':
+naututil.c:(.text+0x5110): multiple definition of `cellstarts'
+naututil.o:naututil.c:(.text+0x5aa0): first defined here
+naututilW1.o: In function `fixit':
+naututil.c:(.text+0x5180): multiple definition of `fixit'
+naututil.o:naututil.c:(.text+0x5b60): first defined here
+naututilW1.o: In function `readptn':
+naututil.c:(.text+0x53c0): multiple definition of `readptn'
+naututil.o:naututil.c:(.text+0x5da0): first defined here
+naututilW1.o: In function `sethash':
+naututil.c:(.text+0x5900): multiple definition of `sethash'
+naututil.o:naututil.c:(.text+0x63b0): first defined here
+naututilW1.o: In function `listhash':
+naututil.c:(.text+0x5a10): multiple definition of `listhash'
+naututil.o:naututil.c:(.text+0x6580): first defined here
+naututilW1.o: In function `hashgraph_sg':
+naututil.c:(.text+0x5a60): multiple definition of `hashgraph_sg'
+naututil.o:naututil.c:(.text+0x65d0): first defined here
+naututilW1.o: In function `hashgraph':
+naututil.c:(.text+0x5b60): multiple definition of `hashgraph'
+naututil.o:naututil.c:(.text+0x66d0): first defined here
+naututilW1.o: In function `hash':
+naututil.c:(.text+0x5c20): multiple definition of `hash'
+naututil.o:naututil.c:(.text+0x6790): first defined here
+naututilW1.o: In function `readvperm':
+naututil.c:(.text+0x5c80): multiple definition of `readvperm'
+naututil.o:naututil.c:(.text+0x67f0): first defined here
+naututilW1.o: In function `readperm':
+naututil.c:(.text+0x5fb0): multiple definition of `readperm'
+naututil.o:naututil.c:(.text+0x6bf0): first defined here
+naututilW1.o: In function `ranperm':
+naututil.c:(.text+0x5ff0): multiple definition of `ranperm'
+naututil.o:naututil.c:(.text+0x6c30): first defined here
+naututilW1.o: In function `relabel':
+naututil.c:(.text+0x6170): multiple definition of `relabel'
+naututil.o:naututil.c:(.text+0x6db0): first defined here
+naututilW1.o: In function `relabel_sg':
+naututil.c:(.text+0x6350): multiple definition of `relabel_sg'
+naututil.o:naututil.c:(.text+0x6f90): first defined here
+naututilW1.o: In function `sublabel':
+naututil.c:(.text+0x6500): multiple definition of `sublabel'
+naututil.o:naututil.c:(.text+0x71b0): first defined here
+naututilW1.o: In function `countcells':
+naututil.c:(.text+0x6710): multiple definition of `countcells'
+naututil.o:naututil.c:(.text+0x7380): first defined here
+naututilW1.o: In function `subpartition':
+naututil.c:(.text+0x6920): multiple definition of `subpartition'
+naututil.o:naututil.c:(.text+0x7590): first defined here
+naututilW1.o: In function `sublabel_sg':
+naututil.c:(.text+0x6a20): multiple definition of `sublabel_sg'
+naututil.o:naututil.c:(.text+0x7710): first defined here
+naututilW1.o: In function `copycomment':
+naututil.c:(.text+0x6ed0): multiple definition of `copycomment'
+naututil.o:naututil.c:(.text+0x7c20): first defined here
+naututilW1.o: In function `converse_sg':
+naututil.c:(.text+0x7070): multiple definition of `converse_sg'
+naututil.o:naututil.c:(.text+0x7dc0): first defined here
+naututilW1.o: In function `complement_sg':
+naututil.c:(.text+0x7350): multiple definition of `complement_sg'
+naututil.o:naututil.c:(.text+0x80a0): first defined here
+naututilW1.o: In function `mathon_sg':
+naututil.c:(.text+0x77e0): multiple definition of `mathon_sg'
+naututil.o:naututil.c:(.text+0x86c0): first defined here
+naututilW1.o: In function `mathon':
+naututil.c:(.text+0x7dd0): multiple definition of `mathon'
+naututil.o:naututil.c:(.text+0x8dc0): first defined here
+naututilW1.o: In function `rangraph':
+naututil.c:(.text+0x7f10): multiple definition of `rangraph'
+naututil.o:naututil.c:(.text+0x8f90): first defined here
+naututilW1.o: In function `rangraph2':
+naututil.c:(.text+0x8070): multiple definition of `rangraph2'
+naututil.o:naututil.c:(.text+0x9100): first defined here
+naututilW1.o: In function `rangraph2_sg':
+naututil.c:(.text+0x81f0): multiple definition of `rangraph2_sg'
+naututil.o:naututil.c:(.text+0x92a0): first defined here
+naututilW1.o: In function `putdegs':
+naututil.c:(.text+0x8b40): multiple definition of `putdegs'
+naututil.o:naututil.c:(.text+0x9bf0): first defined here
+naututilW1.o: In function `putdegseq':
+naututil.c:(.text+0x8bc0): multiple definition of `putdegseq'
+naututil.o:naututil.c:(.text+0x9d00): first defined here
+naututilW1.o: In function `putdegs_sg':
+naututil.c:(.text+0x8c40): multiple definition of `putdegs_sg'
+naututil.o:naututil.c:(.text+0x9e10): first defined here
+naututilW1.o: In function `putdegseq_sg':
+naututil.c:(.text+0x8c50): multiple definition of `putdegseq_sg'
+naututil.o:naututil.c:(.text+0x9e20): first defined here
+naututilW1.o: In function `complement':
+naututil.c:(.text+0x8cb0): multiple definition of `complement'
+naututil.o:naututil.c:(.text+0x9f00): first defined here
+naututilW1.o: In function `converse':
+naututil.c:(.text+0x8e30): multiple definition of `converse'
+naututil.o:naututil.c:(.text+0xa1f0): first defined here
+naututilW1.o: In function `naututil_check':
+naututil.c:(.text+0x8ef0): multiple definition of `naututil_check'
+naututil.o:naututil.c:(.text+0xa2a0): first defined here
+naututilW1.o: In function `naututil_freedyn':
+naututil.c:(.text+0x8fc0): multiple definition of `naututil_freedyn'
+naututil.o:naututil.c:(.text+0xa310): first defined here
+nauty1.o: In function `nauty':
+nauty.c:(.text+0x1be0): multiple definition of `nauty'
+nauty.o:nauty.c:(.text+0x21d0): first defined here
+nauty1.o: In function `nauty_check':
+nauty.c:(.text+0x2970): multiple definition of `nauty_check'
+nauty.o:nauty.c:(.text+0x1e40): first defined here
+nauty1.o: In function `extra_autom':
+nauty.c:(.text+0x2a40): multiple definition of `extra_autom'
+nauty.o:nauty.c:(.text+0x1eb0): first defined here
+nauty1.o: In function `extra_level':
+nauty.c:(.text+0x2ae0): multiple definition of `extra_level'
+nauty.o:nauty.c:(.text+0x1f50): first defined here
+nauty1.o: In function `nauty_freedyn':
+nauty.c:(.text+0x2bb0): multiple definition of `nauty_freedyn'
+nauty.o:nauty.c:(.text+0x2020): first defined here
+nautyL.o: In function `nauty_check':
+nauty.c:(.text+0x1e40): multiple definition of `nauty_check'
+nauty.o:nauty.c:(.text+0x1e40): first defined here
+nautyL.o: In function `extra_autom':
+nauty.c:(.text+0x1eb0): multiple definition of `extra_autom'
+nauty.o:nauty.c:(.text+0x1eb0): first defined here
+nautyL.o: In function `extra_level':
+nauty.c:(.text+0x1f50): multiple definition of `extra_level'
+nauty.o:nauty.c:(.text+0x1f50): first defined here
+nautyL.o: In function `nauty_freedyn':
+nauty.c:(.text+0x2020): multiple definition of `nauty_freedyn'
+nauty.o:nauty.c:(.text+0x2020): first defined here
+nautyL.o: In function `nauty':
+nauty.c:(.text+0x21d0): multiple definition of `nauty'
+nauty.o:nauty.c:(.text+0x21d0): first defined here
+nautyL1.o: In function `nauty':
+nauty.c:(.text+0x1be0): multiple definition of `nauty'
+nauty.o:nauty.c:(.text+0x21d0): first defined here
+nautyL1.o: In function `nauty_check':
+nauty.c:(.text+0x2970): multiple definition of `nauty_check'
+nauty.o:nauty.c:(.text+0x1e40): first defined here
+nautyL1.o: In function `extra_autom':
+nauty.c:(.text+0x2a40): multiple definition of `extra_autom'
+nauty.o:nauty.c:(.text+0x1eb0): first defined here
+nautyL1.o: In function `extra_level':
+nauty.c:(.text+0x2ae0): multiple definition of `extra_level'
+nauty.o:nauty.c:(.text+0x1f50): first defined here
+nautyL1.o: In function `nauty_freedyn':
+nauty.c:(.text+0x2bb0): multiple definition of `nauty_freedyn'
+nauty.o:nauty.c:(.text+0x2020): first defined here
+nautyW.o: In function `nauty_check':
+nauty.c:(.text+0x1e40): multiple definition of `nauty_check'
+nauty.o:nauty.c:(.text+0x1e40): first defined here
+nautyW.o: In function `extra_autom':
+nauty.c:(.text+0x1eb0): multiple definition of `extra_autom'
+nauty.o:nauty.c:(.text+0x1eb0): first defined here
+nautyW.o: In function `extra_level':
+nauty.c:(.text+0x1f50): multiple definition of `extra_level'
+nauty.o:nauty.c:(.text+0x1f50): first defined here
+nautyW.o: In function `nauty_freedyn':
+nauty.c:(.text+0x2020): multiple definition of `nauty_freedyn'
+nauty.o:nauty.c:(.text+0x2020): first defined here
+nautyW.o: In function `nauty':
+nauty.c:(.text+0x21d0): multiple definition of `nauty'
+nauty.o:nauty.c:(.text+0x21d0): first defined here
+nautyW1.o: In function `nauty':
+nauty.c:(.text+0x1930): multiple definition of `nauty'
+nauty.o:nauty.c:(.text+0x21d0): first defined here
+nautyW1.o: In function `nauty_check':
+nauty.c:(.text+0x25f0): multiple definition of `nauty_check'
+nauty.o:nauty.c:(.text+0x1e40): first defined here
+nautyW1.o: In function `extra_autom':
+nauty.c:(.text+0x26c0): multiple definition of `extra_autom'
+nauty.o:nauty.c:(.text+0x1eb0): first defined here
+nautyW1.o: In function `extra_level':
+nauty.c:(.text+0x2760): multiple definition of `extra_level'
+nauty.o:nauty.c:(.text+0x1f50): first defined here
+nautyW1.o: In function `nauty_freedyn':
+nauty.c:(.text+0x2830): multiple definition of `nauty_freedyn'
+nauty.o:nauty.c:(.text+0x2020): first defined here
+schreierL.o: In function `schreier_fails':
+schreier.c:(.text+0xb0): multiple definition of `schreier_fails'
+schreier.o:schreier.c:(.text+0xb0): first defined here
+schreierL.o: In function `freeschreier':
+schreier.c:(.text+0xd0): multiple definition of `freeschreier'
+schreier.o:schreier.c:(.text+0xd0): first defined here
+schreierL.o: In function `findpermutation':
+schreier.c:(.text+0x150): multiple definition of `findpermutation'
+schreier.o:schreier.c:(.text+0x150): first defined here
+schreierL.o: In function `addpermutation':
+schreier.c:(.text+0x1f0): multiple definition of `addpermutation'
+schreier.o:schreier.c:(.text+0x1f0): first defined here
+schreierL.o:(.bss+0x0): multiple definition of `filtercount'
+schreier.o:(.bss+0x0): first defined here
+schreierL.o:(.bss+0x8): multiple definition of `multcount'
+schreier.o:(.bss+0x8): first defined here
+schreierL.o: In function `addgenerator':
+schreier.c:(.text+0xeb0): multiple definition of `addgenerator'
+schreier.o:schreier.c:(.text+0xeb0): first defined here
+schreierL.o: In function `condaddgenerator':
+schreier.c:(.text+0xed0): multiple definition of `condaddgenerator'
+schreier.o:schreier.c:(.text+0xed0): first defined here
+schreierL.o: In function `deleteunmarked':
+schreier.c:(.text+0xf30): multiple definition of `deleteunmarked'
+schreier.o:schreier.c:(.text+0xf30): first defined here
+schreierL.o: In function `newgroup':
+schreier.c:(.text+0xfc0): multiple definition of `newgroup'
+schreier.o:schreier.c:(.text+0xfc0): first defined here
+schreierL.o: In function `expandschreier':
+schreier.c:(.text+0x11d0): multiple definition of `expandschreier'
+schreier.o:schreier.c:(.text+0x11d0): first defined here
+schreierL.o: In function `getorbits':
+schreier.c:(.text+0x1410): multiple definition of `getorbits'
+schreier.o:schreier.c:(.text+0x1410): first defined here
+schreierL.o: In function `getorbitsmin':
+schreier.c:(.text+0x1930): multiple definition of `getorbitsmin'
+schreier.o:schreier.c:(.text+0x1930): first defined here
+schreierL.o: In function `pruneset':
+schreier.c:(.text+0x2250): multiple definition of `pruneset'
+schreier.o:schreier.c:(.text+0x2250): first defined here
+schreierL.o: In function `schreier_gens':
+schreier.c:(.text+0x2ad0): multiple definition of `schreier_gens'
+schreier.o:schreier.c:(.text+0x2ad0): first defined here
+schreierL.o: In function `dumpschreier':
+schreier.c:(.text+0x2b10): multiple definition of `dumpschreier'
+schreier.o:schreier.c:(.text+0x2b10): first defined here
+schreierL.o: In function `grouporder':
+schreier.c:(.text+0x2f20): multiple definition of `grouporder'
+schreier.o:schreier.c:(.text+0x2f20): first defined here
+schreierL.o: In function `schreier_check':
+schreier.c:(.text+0x32d0): multiple definition of `schreier_check'
+schreier.o:schreier.c:(.text+0x32d0): first defined here
+schreierL.o: In function `schreier_freedyn':
+schreier.c:(.text+0x3340): multiple definition of `schreier_freedyn'
+schreier.o:schreier.c:(.text+0x3340): first defined here
+schreierW.o: In function `schreier_fails':
+schreier.c:(.text+0xb0): multiple definition of `schreier_fails'
+schreier.o:schreier.c:(.text+0xb0): first defined here
+schreierW.o: In function `freeschreier':
+schreier.c:(.text+0xd0): multiple definition of `freeschreier'
+schreier.o:schreier.c:(.text+0xd0): first defined here
+schreierW.o: In function `findpermutation':
+schreier.c:(.text+0x150): multiple definition of `findpermutation'
+schreier.o:schreier.c:(.text+0x150): first defined here
+schreierW.o: In function `addpermutation':
+schreier.c:(.text+0x1f0): multiple definition of `addpermutation'
+schreier.o:schreier.c:(.text+0x1f0): first defined here
+schreierW.o:(.bss+0x0): multiple definition of `filtercount'
+schreier.o:(.bss+0x0): first defined here
+schreierW.o:(.bss+0x8): multiple definition of `multcount'
+schreier.o:(.bss+0x8): first defined here
+schreierW.o: In function `addgenerator':
+schreier.c:(.text+0xeb0): multiple definition of `addgenerator'
+schreier.o:schreier.c:(.text+0xeb0): first defined here
+schreierW.o: In function `condaddgenerator':
+schreier.c:(.text+0xed0): multiple definition of `condaddgenerator'
+schreier.o:schreier.c:(.text+0xed0): first defined here
+schreierW.o: In function `deleteunmarked':
+schreier.c:(.text+0xf30): multiple definition of `deleteunmarked'
+schreier.o:schreier.c:(.text+0xf30): first defined here
+schreierW.o: In function `newgroup':
+schreier.c:(.text+0xfc0): multiple definition of `newgroup'
+schreier.o:schreier.c:(.text+0xfc0): first defined here
+schreierW.o: In function `expandschreier':
+schreier.c:(.text+0x11d0): multiple definition of `expandschreier'
+schreier.o:schreier.c:(.text+0x11d0): first defined here
+schreierW.o: In function `getorbits':
+schreier.c:(.text+0x1410): multiple definition of `getorbits'
+schreier.o:schreier.c:(.text+0x1410): first defined here
+schreierW.o: In function `getorbitsmin':
+schreier.c:(.text+0x1930): multiple definition of `getorbitsmin'
+schreier.o:schreier.c:(.text+0x1930): first defined here
+schreierW.o: In function `pruneset':
+schreier.c:(.text+0x2250): multiple definition of `pruneset'
+schreier.o:schreier.c:(.text+0x2250): first defined here
+schreierW.o: In function `schreier_gens':
+schreier.c:(.text+0x2b00): multiple definition of `schreier_gens'
+schreier.o:schreier.c:(.text+0x2ad0): first defined here
+schreierW.o: In function `dumpschreier':
+schreier.c:(.text+0x2b40): multiple definition of `dumpschreier'
+schreier.o:schreier.c:(.text+0x2b10): first defined here
+schreierW.o: In function `grouporder':
+schreier.c:(.text+0x2f50): multiple definition of `grouporder'
+schreier.o:schreier.c:(.text+0x2f20): first defined here
+schreierW.o: In function `schreier_check':
+schreier.c:(.text+0x3300): multiple definition of `schreier_check'
+schreier.o:schreier.c:(.text+0x32d0): first defined here
+schreierW.o: In function `schreier_freedyn':
+schreier.c:(.text+0x3370): multiple definition of `schreier_freedyn'
+schreier.o:schreier.c:(.text+0x3340): first defined here
+collect2: error: ld returned 1 exit status
